@@ -1,0 +1,32 @@
+Menú, quitar subsecciones
+Menú, secciones en responsive fondo transparencia 50%
+Menú, tamaño fuente
+Menú, anclas links
+
+Hero, link imagen fondo
+
+Ideología, imagen aristoteles
+
+Tekné, poner iconos correctos
+Tekné, sin circulos
+Tekné, sin linea divisoria
+Tekné, todo en una sola línea
+Tekné, espaciado top responsive
+
+Sobre mí, 0px solo en padding top
+Sobre mí, link imagen foto
+
+Servicios, circulos más pequeños
+Servicios, todo en una sola línea
+Servicios, espaciado top responsive
+
+Portafolio, categorías en bold en hover y en active
+Portafolio, botón "más proyectos"
+
+Blog, ¿cómo funciona el subir las entradas recientes? 
+
+Contacto, programar correo
+
+Footer, otro icono flickr
+Footer, icono vimeo
+Footer, redes centrar en responsive
