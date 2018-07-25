@@ -1,9 +1,9 @@
-Que hagas un commit - Completado (?)
+COMPLETADO - Que hagas un commit
 
-Menú, quitar subsecciones
-Menú, secciones en responsive fondo blanco con transparencia 50% y fuente más grande, centrada y naranja
-Menú, en normal tamaño fuente
-Menú, anclas links en cada sección de la onepage
+COMPLETADO - Menú, quitar subsecciones
+COMPLETADO - secciones en responsive fondo blanco con transparencia 50% y fuente más grande, centrada y naranja
+COMPLETADO - en normal tamaño fuente
+COMPLETADO - anclas links en cada sección de la onepage
 
 Hero, link imagen fondo
 
