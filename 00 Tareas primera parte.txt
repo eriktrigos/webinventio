@@ -5,7 +5,7 @@ COMPLETADO - secciones en responsive fondo blanco con transparencia 50% y fuente
 COMPLETADO - en normal tamaño fuente
 COMPLETADO - anclas links en cada sección de la onepage
 
-Hero, link imagen fondo
+COMPLETADO - Hero, link imagen fondo
 
 Ideología, imagen aristoteles
 
@@ -15,7 +15,7 @@ Tekné, sin linea divisoria
 Tekné, todo en una sola línea
 Tekné, espaciado top responsive
 
-Sobre mí, link imagen foto
+COMPLETADO - Sobre mí, link imagen foto
 
 Servicios, circulos más pequeños
 Servicios, todo en una sola línea
@@ -26,9 +26,10 @@ Portafolio, botón "más proyectos"
 
 Blog, ¿cómo funciona el subir las entradas recientes? 
 
-Clientes, en responsivo los logos se ven pixeleados, hacer que se vena más chicos y en dos columnas
+COMPLETADO - Clientes, en responsivo los logos se ven pixeleados, hacer que se vena más chicos y en dos columnas
 
 Contacto, programar correo
+Contacto, importar nuevo contacto con iconos de telefono y correo
 
 Footer, otro icono flickr
 Footer, icono vimeo
