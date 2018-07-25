@@ -1,4 +1,4 @@
-Que hagas un commit 
+Que hagas un commit - Completado (?)
 
 Menú, quitar subsecciones
 Menú, secciones en responsive fondo transparencia 50%
