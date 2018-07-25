@@ -1,9 +1,9 @@
 Que hagas un commit - Completado (?)
 
 Menú, quitar subsecciones
-Menú, secciones en responsive fondo transparencia 50%
-Menú, tamaño fuente
-Menú, anclas links
+Menú, secciones en responsive fondo blanco con transparencia 50% y fuente más grande, centrada y naranja
+Menú, en normal tamaño fuente
+Menú, anclas links en cada sección de la onepage
 
 Hero, link imagen fondo
 
@@ -15,7 +15,6 @@ Tekné, sin linea divisoria
 Tekné, todo en una sola línea
 Tekné, espaciado top responsive
 
-Sobre mí, 0px solo en padding top
 Sobre mí, link imagen foto
 
 Servicios, circulos más pequeños
@@ -26,6 +25,8 @@ Portafolio, categorías en bold en hover y en active
 Portafolio, botón "más proyectos"
 
 Blog, ¿cómo funciona el subir las entradas recientes? 
+
+Clientes, en responsivo los logos se ven pixeleados, hacer que se vena más chicos y en dos columnas
 
 Contacto, programar correo
 
