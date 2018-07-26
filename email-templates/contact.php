@@ -8,8 +8,8 @@
 	$comment=$_POST["comment"];
 	
 	// Email Receiver Address
-	$receiver="info@yourdomain.com";
-	$subject="Contact form details";
+	$receiver="erik@inventio.mx";
+	$subject="Info desde web";
 
 	$message = "
 	<html>
@@ -53,12 +53,12 @@ $headers .= 'From: <'.$from.'>' . "\r\n";
    if(mail($receiver,$subject,$message,$headers))  
    {
 	   //Success Message
-      echo "The message has been sent!";
+      echo "¡Tu mensaje ha sido enviado con éxito!";
    }
    else
    {	
    	 //Fail Message
-      echo "The message could not been sent!";
+      echo "Uuuups! El mensaje no pudo ser enviado. :(";
    }
 
 }
