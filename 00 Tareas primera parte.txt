@@ -28,9 +28,12 @@ Blog, ¿cómo funciona el subir las entradas recientes?
 
 COMPLETADO - Clientes, en responsivo los logos se ven pixeleados, hacer que se vena más chicos y en dos columnas
 
-Contacto, programar correo
+COMPLETADO - Contacto, programar correo
 Contacto, importar nuevo contacto con iconos de telefono y correo
 
 Footer, otro icono flickr
 Footer, icono vimeo
 Footer, redes centrar en responsive
+
+COMPLETADO - Mail, Crear cuenta
+Mail, Verificar que la cuenta funciona
