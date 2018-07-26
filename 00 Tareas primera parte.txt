@@ -21,8 +21,9 @@ Servicios, circulos más pequeños
 Servicios, todo en una sola línea
 Servicios, espaciado top responsive
 
-Portafolio, categorías en bold en hover y en active
-Portafolio, botón "más proyectos"
+COMPLETADO - Portafolio, categorías en bold en hover y en active
+COMPLETADO - Portafolio, botón "más proyectos"
+Portafolio, Seleccionar un html que se llame "portafolio" y modificar y boton
 
 Blog, ¿cómo funciona el subir las entradas recientes? 
 

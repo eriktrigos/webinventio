@@ -47,9 +47,9 @@ Table of contents
 
 body{ font-family: 'Titillium Web', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:14px; color:#ffffff; font-weight: 400;line-height: 24px;}
 body, html { height: 100%; -moz-osx-font-smoothing: grayscale;}
-a, a:active, a:focus { color: #ffffff; text-decoration: none; }
+a, a:active, a:focus { color: #ffffff; text-decoration: none; font-weight: 400;  }
 a:hover, a:active{color: #ff214f; text-decoration: none;}
-a:focus, a:active, button:focus, button:active,.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {outline: none;}
+a:focus, a:active, button:focus, button:active,.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {outline: none; font-weight: 700;}
 img {max-width:100%; height:auto; }
 video { background-size: cover; display: table-cell; vertical-align: middle; width: 100%; }
 input, textarea, select{ border: 1px solid #d1d1d1; font-size: 14px;  padding: 8px 15px; width: 100%; margin: 0 0 20px 0; max-width: 100%; resize: none;}
@@ -3704,7 +3704,7 @@ aside .latest-post li figure {width: 75px;}
 
 /* home - creative designer */
 .color-code {justify-content: space-around; align-items: center; z-index: 0;}
-.bg-background-fade {background-color: #ff5851}
+.bg-background-fade {background-color: #FF5800}
 .color-1, .color-2, .color-3, .color-4, .color-5 {-webkit-transition: background-color 700ms linear; -moz-transition: background-color 700ms linear; -o-transition: background-color 700ms linear; -ms-transition: background-color 700ms linear; transition: background-color 700ms linear; }
 .color-1 {background-color: #FF5800;}
 .color-2 {background-color: #ff1535;}
