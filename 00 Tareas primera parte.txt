@@ -25,12 +25,13 @@ COMPLETADO - Portafolio, categorías en bold en hover y en active
 COMPLETADO - Portafolio, botón "más proyectos"
 Portafolio, Seleccionar un html que se llame "portafolio" y modificar y boton
 
-Blog, ¿cómo funciona el subir las entradas recientes? 
+Blog, quitar espacio en top
 
 COMPLETADO - Clientes, en responsivo los logos se ven pixeleados, hacer que se vena más chicos y en dos columnas
 
 COMPLETADO - Contacto, programar correo
-Contacto, importar nuevo contacto con iconos de telefono y correo
+COMPLETADO - Contacto, importar nuevo contacto con iconos de telefono y correo
+Contacto, centra iconos de telefono y correo
 
 COMPLETADO - Footer, otro icono flickr
 COMPLETADO - Footer, icono vimeo
