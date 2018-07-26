@@ -273,6 +273,7 @@ section {padding: 130px 0; overflow: hidden;}
 section.big-section {padding:160px 0;}
 section.extra-big-section {padding:200px 0;}
 section.half-section {padding:80px 0;}
+
 .overlap-section {margin-top:-14%; position: relative}
 .col-2-nth .col-md-6:nth-child(2n+1) {clear: left;}
 .col-2-nth .col-sm-6:nth-child(2n+1) {clear: left;}

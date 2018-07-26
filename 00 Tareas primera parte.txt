@@ -10,10 +10,10 @@ COMPLETADO - Hero, link imagen fondo
 Ideología, imagen aristoteles
 
 Tekné, poner iconos correctos
-Tekné, sin circulos
-Tekné, sin linea divisoria
-Tekné, todo en una sola línea
-Tekné, espaciado top responsive
+COMPLETADO - Tekné, sin circulos
+COMPLETADO -Tekné, sin linea divisoria
+COMPLETADO - todo en una sola línea
+COMPLETADO - espaciado top responsive
 
 COMPLETADO - Sobre mí, link imagen foto
 
