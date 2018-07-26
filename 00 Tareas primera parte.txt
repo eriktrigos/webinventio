@@ -31,8 +31,8 @@ COMPLETADO - Clientes, en responsivo los logos se ven pixeleados, hacer que se v
 COMPLETADO - Contacto, programar correo
 Contacto, importar nuevo contacto con iconos de telefono y correo
 
-Footer, otro icono flickr
-Footer, icono vimeo
+COMPLETADO - Footer, otro icono flickr
+COMPLETADO - Footer, icono vimeo
 Footer, redes centrar en responsive
 
 COMPLETADO - Mail, Crear cuenta
