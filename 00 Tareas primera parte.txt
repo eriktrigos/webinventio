@@ -1,9 +1,12 @@
 COMPLETADO - Que hagas un commit
 
+Body, revisar que entre cada una de las secciones exista el miso espaciado
+
 COMPLETADO - Menú, quitar subsecciones
-COMPLETADO - secciones en responsive fondo blanco con transparencia 50% y fuente más grande, centrada y naranja
-COMPLETADO - en normal tamaño fuente
-COMPLETADO - anclas links en cada sección de la onepage
+COMPLETADO - Menú, secciones en responsive fondo blanco con transparencia 50% y fuente más grande, centrada y naranja
+COMPLETADO - Menú, en normal tamaño fuente
+COMPLETADO - Menú, anclas links en cada sección de la onepage
+Menú, encontrar el menú :o
 
 COMPLETADO - Hero, link imagen fondo
 
@@ -11,9 +14,9 @@ Ideología, imagen aristoteles
 
 Tekné, poner iconos correctos
 COMPLETADO - Tekné, sin circulos
-COMPLETADO -Tekné, sin linea divisoria
-COMPLETADO - todo en una sola línea
-COMPLETADO - espaciado top responsive
+COMPLETADO - Tekné, sin linea divisoria
+COMPLETADO - Tekné, todo en una sola línea
+COMPLETADO - Tekné, espaciado top responsive
 
 COMPLETADO - Sobre mí, link imagen foto
 
@@ -23,12 +26,10 @@ Servicios, espaciado top responsive
 
 COMPLETADO - Portafolio, categorías en bold en hover y en active
 COMPLETADO - Portafolio, botón "más proyectos"
-Portafolio, Seleccionar un html que se llame "portafolio" y modificar y boton
-
-Blog, quitar espacio en top
+Portafolio, seleccionar un html que se llame "portafolio" y modificar y botón
 
 COMPLETADO - Clientes, en responsivo los logos se ven pixeleados, hacer que se vena más chicos y en dos columnas
-Clientes, modificar url de cada logo
+Clientes, más que sustituir url, sería eliminar el hipervínculo
 
 COMPLETADO - Contacto, programar correo
 COMPLETADO - Contacto, importar nuevo contacto con iconos de telefono y correo
@@ -36,7 +37,7 @@ COMPLETADO - Contacto, centra iconos de telefono y correo
 
 COMPLETADO - Footer, otro icono flickr
 COMPLETADO - Footer, icono vimeo
-¿completado? - - Footer, redes centrar en responsive
+COMPLETADO - Footer, redes centrar en responsive
 
-COMPLETADO - Mail, Crear cuenta
-Mail, Verificar que la cuenta funciona
+COMPLETADO - Mail, crear cuenta
+COMPLETADO - Mail, verificar que la cuenta funciona
