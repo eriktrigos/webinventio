@@ -2,7 +2,8 @@ COMPLETADO - Que hagas un commit
 
 Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
 
-Body, revisar que entre cada una de las secciones exista el miso espaciado
+Body, revisar que entre cada una de las secciones exista el mismo espaciado
+Body, revisar que entre cada uno de los títulos de las secciones y el inicio de las mismas exista el mismo espaciado
 Body, en responsivo, ninguna de las cajas de texto actúa como responsivo (incluyendo formulario y logos de clientes)
 
 COMPLETADO - Menú, quitar subsecciones
@@ -15,22 +16,25 @@ COMPLETADO - Hero, link imagen fondo
 
 Ideología, imagen aristoteles
 
-Tekné, poner iconos correctos
+COMPLETADO - Tekné, poner iconos correctos
 COMPLETADO - Tekné, sin circulos
 COMPLETADO - Tekné, sin linea divisoria
 COMPLETADO - Tekné, todo en una sola línea
 COMPLETADO - Tekné, espaciado top responsive
 
 COMPLETADO - Sobre mí, link imagen foto
-Sobre mí, la caja de texto le falta espacio en la derecha (que no pase de ese margen que se ve, similar al del portafolio y la tekné)
+COMPLETADO - Sobre mí, la caja de texto le falta espacio en la derecha (que no pase de ese margen que se ve, similar al del portafolio y la tekné)
 
-Servicios, Agregar nueva versión de servicios
+COMPLETADO - Servicios, Agregar nueva versión de servicios
 Servicios, poner iconos correctos
+Servicios, todo en una sola línea
+Servicios, espaciado top responsive
+Servicios, color de tipografía
 
 COMPLETADO - Portafolio, categorías en bold en hover y en active
 COMPLETADO - Portafolio, botón "más proyectos"
 Portafolio, seleccionar un html que se llame "portafolio" y modificar y botón
-Portafolio, centrar las cajas de las imágenes y el botón de más proyectos que parece que es lo único desfasado un poco hacia la derecha
+Portafolio, centrar la sección que parece que es lo único desfasado un poco hacia la derecha
 
 COMPLETADO - Clientes, en responsivo los logos se ven pixeleados, hacer que se vena más chicos y en dos columnas
 COMPLETADO - Clientes, más que sustituir url, sería eliminar el hipervínculo
