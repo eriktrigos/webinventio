@@ -28,14 +28,15 @@ Portafolio, Seleccionar un html que se llame "portafolio" y modificar y boton
 Blog, quitar espacio en top
 
 COMPLETADO - Clientes, en responsivo los logos se ven pixeleados, hacer que se vena más chicos y en dos columnas
+Clientes, modificar url de cada logo
 
 COMPLETADO - Contacto, programar correo
 COMPLETADO - Contacto, importar nuevo contacto con iconos de telefono y correo
-Contacto, centra iconos de telefono y correo
+COMPLETADO - Contacto, centra iconos de telefono y correo
 
 COMPLETADO - Footer, otro icono flickr
 COMPLETADO - Footer, icono vimeo
-Footer, redes centrar en responsive
+¿completado? - - Footer, redes centrar en responsive
 
 COMPLETADO - Mail, Crear cuenta
 Mail, Verificar que la cuenta funciona
