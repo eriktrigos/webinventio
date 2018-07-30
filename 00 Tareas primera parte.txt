@@ -16,11 +16,19 @@ COMPLETADO - Hero, link imagen fondo
 
 Ideología, imagen aristoteles
 
+<<<<<<< HEAD
 COMPLETADO - Tekné, poner iconos correctos
 COMPLETADO - Tekné, sin circulos
 COMPLETADO - Tekné, sin linea divisoria
 COMPLETADO - Tekné, todo en una sola línea
 COMPLETADO - Tekné, espaciado top responsive
+=======
+Tekné, poner iconos correctos
+Tekné, sin circulos
+Tekné, sin linea divisoria
+Tekné, todo en una sola línea
+Tekné, espaciado top responsive
+>>>>>>> parent of d129afb... Tareas de tekne
 
 COMPLETADO - Sobre mí, link imagen foto
 COMPLETADO - Sobre mí, la caja de texto le falta espacio en la derecha (que no pase de ese margen que se ve, similar al del portafolio y la tekné)
