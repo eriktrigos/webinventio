@@ -1,21 +1,25 @@
-Cambiar descripcion, palabras clave, idioma, autor.
-
+COMPLETADO - Cambiar descripcion, palabras clave, idioma, autor.
 
 Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
 
-Body, cambiar color de texto en over
+Body, cambiar color de texto en hover si es botón
+Body, cambiar color de texto en hover con línea abajo si es hipervínculo
 COMPLETADO - Body, revisar que entre cada una de las secciones exista el mismo espaciado
 Body, revisar que entre cada uno de los títulos de las secciones y el inicio de las mismas exista el mismo espaciado
 COMPLETADO - Body, en responsivo, ninguna de las cajas de texto actúa como responsivo (incluyendo formulario y logos de clientes)
 
 COMPLETADO - Menú, encontrar el menú :o
+Menú, cambiar color de iconos y textos
+Menú, poner redes correctas
 
 Hero, bajar de peso a la imagen en ps
 
 COMPLETADO - Retórica, corregir alineación de íconos en ps
+Retórica, sustituir imagen
+Retórica, íconos en responsive pixeleados 
 
-COMPLETADO - Servicios, cambiar color del cuadro en over
-COMPLETADO - Servicios, cambiar color de ícono en over
+COMPLETADO - Servicios, cambiar color del cuadro en hover
+COMPLETADO - Servicios, cambiar color de ícono en hover
 COMPLETADO - Servicios, poner iconos correctos
 COMPLETADO - Servicios, todo en una sola línea
 COMPLETADO - Servicios, espaciado top responsive
@@ -23,12 +27,28 @@ COMPLETADO - Servicios, color de tipografía
 
 Aristóteles, sustituir imagen 
 
-Portafolio, sustituir imágenes
-Portafolio, seleccionar un html que se llame "portafolio" y modificar y botón
+COMPLETADO - Portafolio, sustituir imágenes
+COMPLETADO - Portafolio, seleccionar un html que se llame "portafolio" y modificar y botón
 COMPLETADO - Portafolio, centrar la sección que parece que es lo único desfasado un poco hacia la derecha
+Portafolio, agregar 4 proyectos más
+Portafolio, elegir plantillas de html por proyecto
+Portafolio, diseñar plantillas (nuevas tareas en otras listas)
+Portafolio, crear proyectos
+Portafolio, poner imágenes finales
+Portafolio, linkear con filtro
+Portafolio, linkear proyectos finales
+Portafolio, diseñar plantilla portfolio.html (nuevas tareas en otra lista)
 
 COMPLETADO - Blog, sustituir imágenes
 COMPLETADO - Blog, espacio entre fila uno y dos
+Blog, quitar transparencia negra en hover
+Blog, diseñar plantilla (nuevas tareas en otra lista)
+Blog, escribir artículos
+Blog, poner imágenes finales
+Blog, linkear blogs finales
+Blog, diseñar plantilla blog.html (nuevas tareas en otra lista)
 
-Footer, cambiar color de íconos de redes en over
+Contacto, sustituir imagen
+
+Footer, cambiar color de íconos de redes en hover
 
