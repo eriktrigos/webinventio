@@ -1,3 +1,6 @@
+Cambiar descripcion, palabras clave, idioma, autor.
+
+
 Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
 
 Body, cambiar color de texto en over
