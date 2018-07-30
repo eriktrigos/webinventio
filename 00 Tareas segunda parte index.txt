@@ -25,7 +25,7 @@ Aristóteles, sustituir imagen
 
 Portafolio, sustituir imágenes
 Portafolio, seleccionar un html que se llame "portafolio" y modificar y botón
-Portafolio, centrar la sección que parece que es lo único desfasado un poco hacia la derecha
+COMPLETADO - Portafolio, centrar la sección que parece que es lo único desfasado un poco hacia la derecha
 
 COMPLETADO - Blog, sustituir imágenes
 COMPLETADO - Blog, espacio entre fila uno y dos
