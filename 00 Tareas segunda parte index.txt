@@ -11,12 +11,12 @@ Hero, bajar de peso a la imagen en ps
 
 Retórica, corregir alineación de íconos en ps
 
-Servicios, cambiar color del cuadro en over
-Servicios, cambiar color de ícono en over
-Servicios, poner iconos correctos
-Servicios, todo en una sola línea
-Servicios, espaciado top responsive
-Servicios, color de tipografía
+COMPLETADO - Servicios, cambiar color del cuadro en over
+COMPLETADO - Servicios, cambiar color de ícono en over
+COMPLETADO - Servicios, poner iconos correctos
+COMPLETADO - Servicios, todo en una sola línea
+COMPLETADO - Servicios, espaciado top responsive
+COMPLETADO - Servicios, color de tipografía
 
 Aristóteles, sustituir imagen 
 
