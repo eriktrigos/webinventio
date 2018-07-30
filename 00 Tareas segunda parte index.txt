@@ -3,13 +3,13 @@ Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
 Body, cambiar color de texto en over
 Body, revisar que entre cada una de las secciones exista el mismo espaciado
 Body, revisar que entre cada uno de los títulos de las secciones y el inicio de las mismas exista el mismo espaciado
-Body, en responsivo, ninguna de las cajas de texto actúa como responsivo (incluyendo formulario y logos de clientes)
+COMPLETADO - Body, en responsivo, ninguna de las cajas de texto actúa como responsivo (incluyendo formulario y logos de clientes)
 
-Menú, encontrar el menú :o
+COMPLETADO - Menú, encontrar el menú :o
 
 Hero, bajar de peso a la imagen en ps
 
-Retórica, corregir alineación de íconos en ps
+COMPLETADO - Retórica, corregir alineación de íconos en ps
 
 COMPLETADO - Servicios, cambiar color del cuadro en over
 COMPLETADO - Servicios, cambiar color de ícono en over
@@ -24,8 +24,8 @@ Portafolio, sustituir imágenes
 Portafolio, seleccionar un html que se llame "portafolio" y modificar y botón
 Portafolio, centrar la sección que parece que es lo único desfasado un poco hacia la derecha
 
-Blog, sustituir imágenes
-Blog, espacio entre fila uno y dos
+COMPLETADO - Blog, sustituir imágenes
+COMPLETADO - Blog, espacio entre fila uno y dos
 
 Footer, cambiar color de íconos de redes en over
 
