@@ -4,7 +4,7 @@ Cambiar descripcion, palabras clave, idioma, autor.
 Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
 
 Body, cambiar color de texto en over
-Body, revisar que entre cada una de las secciones exista el mismo espaciado
+COMPLETADO - Body, revisar que entre cada una de las secciones exista el mismo espaciado
 Body, revisar que entre cada uno de los títulos de las secciones y el inicio de las mismas exista el mismo espaciado
 COMPLETADO - Body, en responsivo, ninguna de las cajas de texto actúa como responsivo (incluyendo formulario y logos de clientes)
 
