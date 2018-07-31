@@ -16,7 +16,7 @@ Hero, bajar de peso a la imagen en ps
 
 COMPLETADO - Retórica, corregir alineación de íconos en ps
 Retórica, sustituir imagen
-Retórica, íconos en responsive pixeleados 
+COMPLETADO - Retórica, íconos en responsive pixeleados 
 
 COMPLETADO - Servicios, cambiar color del cuadro en hover
 COMPLETADO - Servicios, cambiar color de ícono en hover
@@ -30,11 +30,11 @@ Aristóteles, sustituir imagen
 COMPLETADO - Portafolio, sustituir imágenes
 COMPLETADO - Portafolio, seleccionar un html que se llame "portafolio" y modificar y botón
 COMPLETADO - Portafolio, centrar la sección que parece que es lo único desfasado un poco hacia la derecha
-Portafolio, agregar 4 proyectos más
+COMPLETADO - Portafolio, agregar 4 proyectos más
 Portafolio, elegir plantillas de html por proyecto
 Portafolio, diseñar plantillas (nuevas tareas en otras listas)
-Portafolio, crear proyectos
-Portafolio, poner imágenes finales
+COMPLETADO - Portafolio, crear proyectos
+COMPLETADO- Portafolio, poner imágenes finales
 Portafolio, linkear con filtro
 Portafolio, linkear proyectos finales
 Portafolio, diseñar plantilla portfolio.html (nuevas tareas en otra lista)
