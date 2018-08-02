@@ -3,11 +3,11 @@ $(function() {
 	//l'array ARR va contenir la liste des images
 	var arr = [];
 	//trop lazy pour tout taper... 
-	for (var x=1; x<= 7; x++)
-		arr.push("img_2/prueba_" +x + ".jpg");
+	for (var x=1; x<= 36; x++)
+		arr.push("img_mias/prueba_" +x + ".png");
 	var arr2 = []
-	for (var x=1; x<= 7; x++)
-		arr2.push(x + ".jpg");
+	for (var x=1; x<= 36; x++)
+		arr2.push(x + ".png");
 	
 	//bindons le widget rotate � l'image pic avec la liste d'image arr
 	$("#mousemove").threesixty({images:arr, method:'mousemove', 'cycle':3, direction:"backward"});
