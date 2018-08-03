@@ -3,10 +3,10 @@ $(function() {
 	//l'array ARR va contenir la liste des images
 	var arr = [];
 	//trop lazy pour tout taper... 
-	for (var x=1450; x<= 1480; x++)
-		arr.push("img/MAT_" +x + ".png");
+	for (var x=1; x<= 36; x++)
+		arr.push("360/img_mias/prueba_" +x + ".png");
 	var arr2 = []
-	for (var x=1; x<= 25; x++)
+	for (var x=1; x<= 36; x++)
 		arr2.push(x + ".png");
 	
 	//bindons le widget rotate � l'image pic avec la liste d'image arr
