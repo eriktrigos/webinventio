@@ -2,22 +2,24 @@ COMPLETADO - Cambiar descripcion, palabras clave, idioma, autor.
 
 Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
 
-Menú, quitarlo alv
+COMPLETADO - Menú, quitarlo alv
 
-Preview, centrar imagen
+Logo, centrarlo
 
-Descripción, columnas desfazadas en responsive
+COMPLETADO - Preview, centrar imagen
 
-Slider, col-12 en todos los responsive
+COMPLETADO - Descripción, columnas desfazadas en responsive
 
-Share, borrar dribbble y linkedin
-Share, vincular correctamente
+COMPLETADO - Slider, col-12 en todos los responsive
+
+COMPLETADO - Share, borrar dribbble y linkedin
+COMPLETADO - Share, vincular correctamente
 
 Proyectos relacionados,  hacer pruebas
 
-Más proyectos, crear botón al portafolio
+COMPLETADO - Más proyectos, crear botón al portafolio
 
-Barra de sig proyecto, quitarlo alv
+COMPLETADO - Barra de sig proyecto, quitarlo alv
  
 Footer, cambiar color de íconos de redes en hover
 
