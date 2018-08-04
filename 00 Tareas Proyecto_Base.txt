@@ -4,7 +4,7 @@ Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
 
 COMPLETADO - Menú, quitarlo alv
 
-Logo, centrarlo
+COMPLETADO - Logo, centrarlo
 
 COMPLETADO - Preview, centrar imagen
 
@@ -13,6 +13,7 @@ COMPLETADO - Descripción, columnas desfazadas en responsive
 COMPLETADO - Slider, col-12 en todos los responsive
 
 COMPLETADO - Share, borrar dribbble y linkedin
+
 COMPLETADO - Share, vincular correctamente
 
 Proyectos relacionados,  hacer pruebas
