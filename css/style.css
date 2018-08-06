@@ -263,6 +263,7 @@ a.text-very-light-gray-hover:hover {color:#ededed}
 .bg-black-opacity-light { background-color: rgba(0, 0, 0, 0.5); }
 .bg-deep-pink-opacity {background-color: rgba(153, 0, 85, 0.85);}
 .bg-charcoal-gray{background-color: #0e0f10;}
+.bg-orange {background-color:#ff5800;}
 
 /* ===================================
     Custom
@@ -1895,6 +1896,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .icon-medium {font-size: 35px}
 .icon-extra-medium {font-size: 40px}
 .icon-large {font-size: 50px}
+.icon-round-very-small {border-radius: 100%; display: table-cell; height: 40px; margin: 0 auto; text-align: center; vertical-align: middle; width: 40px; font-size:18px}
 .icon-round-small {border-radius: 100%; display: table-cell; height: 80px; margin: 0 auto; text-align: center; vertical-align: middle; width: 80px; font-size:32px}
 .icon-round-medium {border-radius: 100%; display: table-cell; height: 90px; margin: 0 auto; text-align: center; vertical-align: middle; width: 90px;}
 

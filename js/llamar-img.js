@@ -10,7 +10,7 @@ $(function() {
 		arr2.push(x + ".jpg");
 	
 	//bindons le widget rotate � l'image pic avec la liste d'image arr
-	$("#mousemove").threesixty({images:arr, method:'mousemove', 'cycle':3, direction:"backward"});
+	$("#mousemove").threesixty({images:arr, method:'mousemove', 'cycle':2, direction:"backward"});
 	$("#click").threesixty({images:arr, method:'click', 'cycle':1, 'resetMargin': 10});
 	$("#auto").threesixty({images:arr, method:'auto', autoscrollspeed:100});
 
