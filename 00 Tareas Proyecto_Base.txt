@@ -22,5 +22,5 @@ COMPLETADO - Más proyectos, crear botón al portafolio
 
 COMPLETADO - Barra de sig proyecto, quitarlo alv
  
-Footer, cambiar color de íconos de redes en hover
+COMPLETADO - Footer, cambiar color de íconos de redes en hover
 
