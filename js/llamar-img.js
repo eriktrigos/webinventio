@@ -4,10 +4,10 @@ $(function() {
 	var arr = [];
 	//trop lazy pour tout taper... 
 	for (var x=1; x<= 36; x++)
-		arr.push("360/img_mias/prueba_" +x + ".png");
+		arr.push("images/proyectos/jarana/360/jarana_" +x + ".jpg");
 	var arr2 = []
 	for (var x=1; x<= 36; x++)
-		arr2.push(x + ".png");
+		arr2.push(x + ".jpg");
 	
 	//bindons le widget rotate � l'image pic avec la liste d'image arr
 	$("#mousemove").threesixty({images:arr, method:'mousemove', 'cycle':3, direction:"backward"});
