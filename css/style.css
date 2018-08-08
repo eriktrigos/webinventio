@@ -3767,7 +3767,30 @@ aside .latest-post li figure {width: 75px;}
 @-webkit-keyframes up-down-animation {0%   {opacity:1;  top:0px;} 25%  {opacity:.4;   top:2px;} 50%  {opacity:.3;  top:4px;} 75%  {opacity:.2;  top:5px;} 100% {opacity:0;  top:9px;} }
 @keyframes up-down-animation {0%   {opacity:1;  top:0px;} 25%  {opacity:.4;   top:4px;} 50%  {opacity:.3;  top:8px;} 75%  {opacity:.2;  top:12px;} 100% {opacity:0;  top:16px;} }
 
+/* ===================================
+   prueba
+====================================== */
 
+.imagen-encima{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}    
+
+.encima-texto{
+    position: absolute;
+    top: 98%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+
+.encima-icono{
+    position: absolute;
+    top: 93%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+    
 /* ===================================
    demo page css
 ====================================== */
