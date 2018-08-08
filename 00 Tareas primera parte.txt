@@ -1,6 +1,6 @@
 COMPLETADO - Que hagas un commit
 
-Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
+COMPLETADO - Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
 
 Body, revisar que entre cada una de las secciones exista el mismo espaciado
 Body, revisar que entre cada uno de los títulos de las secciones y el inicio de las mismas exista el mismo espaciado

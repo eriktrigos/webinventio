@@ -1,6 +1,6 @@
 COMPLETADO - Cambiar descripcion, palabras clave, idioma, autor.
 
-Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
+COMPLETADO - Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
 
 COMPLETADO - Body, cambiar color de texto en hover si es botón
 COMPLETADO - Body, cambiar color de texto en hover con línea abajo si es hipervínculo
