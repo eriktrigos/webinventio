@@ -2,19 +2,19 @@ COMPLETADO - Que hagas un commit
 
 COMPLETADO - Tipografía, checar porqué la tipografía no se ve en dispositivos móviles
 
-Body, revisar que entre cada una de las secciones exista el mismo espaciado
-Body, revisar que entre cada uno de los títulos de las secciones y el inicio de las mismas exista el mismo espaciado
-Body, en responsivo, ninguna de las cajas de texto actúa como responsivo (incluyendo formulario y logos de clientes)
+COMPLETADO - Body, revisar que entre cada una de las secciones exista el mismo espaciado
+COMPLETADO - Body, revisar que entre cada uno de los títulos de las secciones y el inicio de las mismas exista el mismo espaciado
+COMPLETADO - Body, en responsivo, ninguna de las cajas de texto actúa como responsivo (incluyendo formulario y logos de clientes)
 
 COMPLETADO - Menú, quitar subsecciones
 COMPLETADO - Menú, secciones en responsive fondo blanco con transparencia 50% y fuente más grande, centrada y naranja
 COMPLETADO - Menú, en normal tamaño fuente
 COMPLETADO - Menú, anclas links en cada sección de la onepage
-Menú, encontrar el menú :o
+COMPLETADO - Menú, encontrar el menú :o
 
 COMPLETADO - Hero, link imagen fondo
 
-Ideología, imagen aristoteles
+COMPLETADO - Ideología, imagen aristoteles
 
 <<<<<<< HEAD
 COMPLETADO - Tekné, poner iconos correctos
@@ -23,26 +23,26 @@ COMPLETADO - Tekné, sin linea divisoria
 COMPLETADO - Tekné, todo en una sola línea
 COMPLETADO - Tekné, espaciado top responsive
 =======
-Tekné, poner iconos correctos
-Tekné, sin circulos
-Tekné, sin linea divisoria
-Tekné, todo en una sola línea
-Tekné, espaciado top responsive
+COMPLETADO - Tekné, poner iconos correctos
+COMPLETADO - Tekné, sin circulos
+COMPLETADO - Tekné, sin linea divisoria
+COMPLETADO - Tekné, todo en una sola línea
+TCOMPLETADO - ekné, espaciado top responsive
 >>>>>>> parent of d129afb... Tareas de tekne
 
 COMPLETADO - Sobre mí, link imagen foto
 COMPLETADO - Sobre mí, la caja de texto le falta espacio en la derecha (que no pase de ese margen que se ve, similar al del portafolio y la tekné)
 
 COMPLETADO - Servicios, Agregar nueva versión de servicios
-Servicios, poner iconos correctos
-Servicios, todo en una sola línea
-Servicios, espaciado top responsive
-Servicios, color de tipografía
+COMPLETADO - Servicios, poner iconos correctos
+COMPLETADO - Servicios, todo en una sola línea
+COMPLETADO - Servicios, espaciado top responsive
+COMPLETADO - Servicios, color de tipografía
 
 COMPLETADO - Portafolio, categorías en bold en hover y en active
 COMPLETADO - Portafolio, botón "más proyectos"
 Portafolio, seleccionar un html que se llame "portafolio" y modificar y botón
-Portafolio, centrar la sección que parece que es lo único desfasado un poco hacia la derecha
+COMPLETADO - Portafolio, centrar la sección que parece que es lo único desfasado un poco hacia la derecha
 
 COMPLETADO - Clientes, en responsivo los logos se ven pixeleados, hacer que se vena más chicos y en dos columnas
 COMPLETADO - Clientes, más que sustituir url, sería eliminar el hipervínculo
