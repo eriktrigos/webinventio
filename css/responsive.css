@@ -4717,3 +4717,7 @@
 @media screen and (max-height: 320px){
     nav.navbar.bootsnav.no-full .navbar-collapse{max-height: 240px;}
 }
+@media only screen and (max-width: 1365px){
+    .encima-texto{ display: none; }
+    .encima-icono{ display: none; }
+}
