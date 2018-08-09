@@ -1896,7 +1896,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .icon-medium {font-size: 35px}
 .icon-extra-medium {font-size: 40px}
 .icon-large {font-size: 50px}
-.icon-round-very-small {border-radius: 100%; display: table-cell; height: 40px; margin: 0 auto; text-align: center; vertical-align: middle; width: 40px; font-size:18px}
+.icon-round-very-small {border-radius: 100%; display: table-cell; height: 40px; margin: 0 auto; text-align: center; vertical-align: middle; width: 40px; font-size:22px}
 .icon-round-small {border-radius: 100%; display: table-cell; height: 80px; margin: 0 auto; text-align: center; vertical-align: middle; width: 80px; font-size:32px}
 .icon-round-medium {border-radius: 100%; display: table-cell; height: 90px; margin: 0 auto; text-align: center; vertical-align: middle; width: 90px;}
 
@@ -3716,12 +3716,13 @@ aside .latest-post li figure {width: 75px;}
 .bg-background-fade {background-color: #FF5800}
 .color-1, .color-2, .color-3, .color-4, .color-5, .color-6, .color-7 {-webkit-transition: background-color 900ms linear; -moz-transition: background-color 900ms linear; -o-transition: background-color 900ms linear; -ms-transition: background-color 900ms linear; transition: background-color inner-link900ms linear; }
 .color-1 {background-color: #FF5800;}
-.color-2 {background-color: #CC0042;}
+.color-2 {background-color: #cc0042;}
 .color-3 {background-color: #990055;}
-.color-4 {background-color: #3300A7;}
-.color-5 {background-color: #009B86;}
-.color-6 {background-color: #9DC600;}
-.color-7 {background-color: #FFB300;}
+.color-4 {background-color: #0b0b40;}
+.color-5 {background-color: #002882;}
+.color-6 {background-color: #002882;}
+
+.color-7 {background-color: #eeeeed;}
 
 /* home - classic web agency */
 .after-before-separator:before, .after-before-separator:after {width: 35px; margin: 0 15px; height: 1px; background: rgba(255,255,255,.2); content: ""; display: inline-block; vertical-align: super;}
@@ -3779,14 +3780,15 @@ aside .latest-post li figure {width: 75px;}
 
 .encima-texto{
     position: absolute;
-    top: 98%;
+    top: 97%;
     left:50%;
     transform: translate(-50%, -50%);
+    color: #626262;
 }
 
 .encima-icono{
     position: absolute;
-    top: 93%;
+    top: 94%;
     left:50%;
     transform: translate(-50%, -50%);
 }
