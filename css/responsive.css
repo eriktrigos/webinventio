@@ -13,6 +13,15 @@
     .feature-box-14 > div:nth-last-child(2) { border-bottom: 0}
 }
 
+@media (max-width: 991px){
+    li.quitar {display: none !important;}
+    .buy-theme{ 
+        position: -webkit-sticky; 
+        position: sticky;
+        bottom: 0;
+    }
+}
+
 @media (max-width: 1500px) {
     /* sidebar navigation */
     .sidebar-wrapper .container {width: 1000px;}
@@ -1105,7 +1114,7 @@
     .md-padding-100px-lr {padding-left:100px !important; padding-right:100px !important;}
 
     /* col height  */
-    .one-fourth-screen {height:700px;}
+    .one-fourth-screen {height:674px;}
     .md-small-screen {height:300px;}
 
     /* owl slider height */
@@ -2682,6 +2691,9 @@
     .sm-padding-95px-lr {padding-right:95px !important; padding-left:95px !important;}
     .sm-padding-100px-lr {padding-right:100px !important; padding-left:100px !important;}
 
+    /* col height  */
+    .one-fourth-screen {height:557px;}
+
     /* top */
     .sm-top-auto {top:auto}
     .sm-top-0 {top:0 !important}
@@ -4104,7 +4116,7 @@
 
     /* col height  */
     .one-fifth-screen {height:600px;}
-    .one-fourth-screen {height:500px;}
+    .one-fourth-screen {height:431px;}
     .one-third-screen {height:350px;}
     .one-second-screen {height:300px;}
     .extra-small-screen {height:250px;}
@@ -4689,6 +4701,11 @@
     .skillbar-bar-style2 .skill-bar-percent {right: -30px;}
 }
 
+@media (max-width: 500px) {
+/* col height  */
+    .one-fourth-screen {height:180px;}
+}
+
 /* ipad Portrait */
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
     /* slider image */
@@ -4721,3 +4738,19 @@
     .encima-texto{ display: none; }
     .encima-icono{ display: none; }
 }
+
+@media only screen and (max-width: 500px){
+.xss-height-200px {height: 200px !important}
+}
+
+@media (max-width: 500px) {
+
+    body { font-size: 12px; line-height: 20px}
+
+    h1, h2, h3, h4, h5, h6 {margin:0 0 17px; padding:0; letter-spacing: 0; font-weight: 400;}
+    h1 {font-size:37px; line-height: 42px;}
+    h2 {font-size:30px; line-height:36px}
+    h3 {font-size:26px; line-height:30px}
+    h4 {font-size:24px; line-height:30px}
+    h5 {font-size:20px; line-height:28px}
+    h6 {font-size:18px; line-height:23px}
