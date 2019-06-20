@@ -4403,6 +4403,7 @@
     .portfolio-grid.work-2col li.grid-item-double, .blog-grid.work-2col li.grid-item-double {width: 100%}
 
     /* portfolio grid */
+    /*
     .portfolio-grid.portfolio-metro-grid.work-4col li {width: 100%}
     .portfolio-grid.portfolio-metro-grid.work-4col li.grid-item-double {width: 100%}
     .portfolio-grid.portfolio-metro-grid.work-4col li.grid-item-double:last-child { width: 100%;}
@@ -4412,7 +4413,7 @@
     .portfolio-grid.portfolio-metro-grid.work-3col li {width: 100%}
     .portfolio-grid.portfolio-metro-grid.work-3col li.grid-item-double {width: 100%}
     .portfolio-grid.portfolio-metro-grid.work-3col li.grid-item-double:last-child { width: 100%;}
-
+    */
     /* swiper-bottom-scrollbar-full */
     .swiper-bottom-scrollbar-full .swiper-slide img {max-height: 100%;}
     .swiper-bottom-scrollbar-full .swiper-slide:hover img {max-height: 100%; }
