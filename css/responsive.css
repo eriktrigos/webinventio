@@ -1330,6 +1330,9 @@
     .md-no-border-right {border-right:0 !important}
     .md-no-border-left {border-left:0 !important}
 
+
+    .corner {border-radius: 0px 0px 0px 0px;}
+
     /*equalize auto*/
     /*.md-equalize-auto > [class*='col-'] {height: auto !important; }*/   
 
