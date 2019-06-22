@@ -3589,9 +3589,12 @@ a img.aligncenter { display: block; margin-left: auto; margin-right: auto }
 ====================================== */
 
 /* scroll to top */
-.scroll-top-arrow, .scroll-top-arrow:focus { color: #ff5800; background: #363636; border-color: #000; line-height: 28px; display: none; height: 30px; width: 30px; padding: 0; position: fixed; right: 45px; text-align: center; text-decoration: none; top: 91%; z-index: 10006; border-radius: 100%;}
-.scroll-top-arrow:hover {background: #ff5800; opacity: .8; color: #363636; border-color: #000}
+.scroll-top-arrow, .scroll-top-arrow:focus { color: #ff5800; background: #fff; border-color: #000; line-height: 28px; display: none; height: 30px; width: 30px; padding: 0; position: fixed; right: 45px; text-align: center; text-decoration: none; top: 91%; z-index: 10006; border-radius: 100%;}
+.scroll-top-arrow:hover {background: #ff5800; opacity: .8; color: #fff; border-color: #000}
 .scroll-top-arrow i {line-height: 30px;  position: relative;}
+
+.scroll-2, .scroll-2:focus { color: #fff; background: #ff5800; border-color: #000; line-height: 28px; display: none; height: 30px; width: 30px; padding: 0; position: fixed; right: 45px; text-align: center; text-decoration: none; top: 91%; z-index: 10006; border-radius: 100%;}
+.scroll-2:hover {background: #fff; opacity: .8; color: #ff5800; border-color: #000}
 
 .bg-dark-footer{background-color:#141414;}
 .footer-logo {max-height: 28px;}
