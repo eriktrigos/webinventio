@@ -415,7 +415,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .btn {display:inline-block; border:2px solid transparent; letter-spacing: .5px; line-height: inherit; border-radius: 0; text-transform: uppercase; width: auto; font-family: 'Montserrat', sans-serif; font-weight: 600; transition-duration: 0.3s; transition-timing-function: ease-in-out}
 
 /* button size */
-.btn.btn-very-small {font-size:9px; padding: 1px 17px; line-height: 22px;}
+.btn.btn-very-small {font-size:10px; padding: 1px 10px; line-height: 15px;}
 .btn.btn-small {font-size:11px; padding: 4px 24px;}
 .btn.btn-medium {font-size:12px; padding: 6px 25px 5px;}
 .btn.btn-large {font-size:13px; padding: 9px 34px; line-height: 25px}
@@ -437,7 +437,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 
 /* button transparent */
 .btn.btn-transparent-white {background: transparent; border-color: #ffffff; color: #ffffff}
-.btn.btn-transparent-white:hover, .btn.btn-transparent-white:focus {background: #ffffff; border-color: #ffffff; color: #232323}
+.btn.btn-transparent-white:hover, .btn.btn-transparent-white:focus {background: #ffffff; border-color: #ffffff; color: #ff5800}
 .btn.btn-transparent-black {background: transparent; border-color: #000000; color: #000000}
 .btn.btn-transparent-black:hover, .btn.btn-transparent-black:focus {background: #000000; border-color: #000000; color: #ffffff}
 .btn.btn-transparent-dark-gray {background: transparent; border-color: #232323; color: #232323}
@@ -449,7 +449,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 
 /* button rounded */
 .btn.btn-rounded {border-radius: 50px}
-.btn.btn-rounded.btn-very-small {padding: 2px 23px 1px;}
+.btn.btn-rounded.btn-very-small {padding: 2px 15px 1px;}
 .btn.btn-rounded.btn-small {padding: 5px 29px;}
 .btn.btn-rounded.btn-medium {padding: 6px 32px;}
 .btn.btn-rounded.btn-large {padding: 9px 38px;}
@@ -509,6 +509,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .border-color-light-pink {border-color:#862237}
 .border-color-deep-pink {border-color:#ff5800}
 .border-color-transparent-pink {border-color: rgba(255, 33, 79, 0.45);}
+.border-color-orange {border-color:#ff5800}
 
 /* boder style */
 .border-dotted {border-style: dotted !important;}
@@ -1882,7 +1883,8 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .min-height-700px {min-height: 700px}
 
 /* screen height  */
-.extra-extra-small-screen {height:200px;}
+.extra-extra-extra-small-screen {height:100px;}
+.extra-extra-small-screen {height:270px;}
 .extra-small-screen {height:300px;}
 .small-screen {height:400px;}
 .one-second-screen {height:600px;}
@@ -3589,8 +3591,8 @@ a img.aligncenter { display: block; margin-left: auto; margin-right: auto }
 ====================================== */
 
 /* scroll to top */
-.scroll-top-arrow, .scroll-top-arrow:focus { color: #ff5800; background: #fff; border-color: #000; line-height: 28px; display: none; height: 30px; width: 30px; padding: 0; position: fixed; right: 45px; text-align: center; text-decoration: none; top: 91%; z-index: 10006; border-radius: 100%;}
-.scroll-top-arrow:hover {background: #ff5800; opacity: .8; color: #fff; border-color: #000}
+.scroll-top-arrow, .scroll-top-arrow:focus { color: #ff5800; background: #fff; border-color: #ff5800; line-height: 28px; display: none; height: 30px; width: 30px; padding: 0; position: fixed; right: 45px; text-align: center; text-decoration: none; top: 91%; z-index: 10006; border-radius: 100%;}
+.scroll-top-arrow:hover {background: #ff5800; opacity: 1; color: #fff; border-color: #ff5800}
 .scroll-top-arrow i {line-height: 30px;  position: relative;}
 
 .scroll-2, .scroll-2:focus { color: #fff; background: #ff5800; border-color: #000; line-height: 28px; display: none; height: 30px; width: 30px; padding: 0; position: fixed; right: 45px; text-align: center; text-decoration: none; top: 91%; z-index: 10006; border-radius: 100%;}
@@ -3790,7 +3792,7 @@ aside .latest-post li figure {width: 75px;}
     top: 97%;
     left:50%;
     transform: translate(-50%, -50%);
-    color: #626262;
+    color: #ff5800;
 }
 
 .encima-icono{
