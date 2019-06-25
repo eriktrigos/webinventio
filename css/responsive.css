@@ -4580,7 +4580,7 @@
     /* tab */
     .nav-tabs { text-align: center;}
     .portfolio-filter-tab-1 li { margin: 5px 0; padding: 0 !important;}
-    .portfolio-filter-tab-1-padding { padding: 0 !important;}
+    .portfolio-filter-tab-1-padding li a { padding: 10px 15px !important;}
     .portfolio-filter-tab-2 li {width: 100%; margin-bottom: 5px}
 
     /* tab style 2 */
