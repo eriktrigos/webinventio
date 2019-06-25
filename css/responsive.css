@@ -4752,6 +4752,10 @@
 .tool {width: 50px !important}
 }
 
+@media only screen and (max-width: 500px){
+.piezas {width: 40px !important}
+}
+
 @media (max-width: 500px) {
 
     body { font-size: 12px; line-height: 20px}
