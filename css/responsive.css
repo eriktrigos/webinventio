@@ -1426,7 +1426,7 @@
     .banner-style1 figure figcaption img {width: 130px;}
     .swiper-pagination-bottom.swiper-container-horizontal .swiper-wrapper {margin-bottom: 50px;}
     .swiper-container-horizontal > .swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {bottom: 0px;}
-    .swiper-full-screen .swiper-pagination, .hover-option3 .swiper-pagination {bottom: 30px;}
+    .swiper-full-screen .swiper-pagination, .hover-option3 .swiper-pagination {bottom: 47px;}
 
     /* hover option 3 */
     .hover-option3 .grid-item a:hover p { bottom: 0; opacity: 1; }
