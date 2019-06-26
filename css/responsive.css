@@ -13,6 +13,13 @@
     .feature-box-14 > div:nth-last-child(2) { border-bottom: 0}
 }
 
+@media(max-width: 991px){
+    .buy-theme{ 
+        position: -webkit-sticky; 
+        position: sticky;
+        bottom: 0;
+    }
+
 @media (max-width: 991px){
     li.quitar {display: none !important;}
     .buy-theme{ 
