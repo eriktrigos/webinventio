@@ -4749,6 +4749,10 @@
 }
 
 @media only screen and (max-width: 500px){
+.xss-height-150px {height: 150px !important}
+}
+
+@media only screen and (max-width: 500px){
 .tool {width: 50px !important}
 }
 
