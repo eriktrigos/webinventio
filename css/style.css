@@ -1884,7 +1884,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .min-height-700px {min-height: 700px}
 
 /* screen height  */
-.extra-extra-extra-small-screen {height:100px;}
+.extra-extra-extra-small-screen {height:200px;}
 .extra-extra-small-screen {height:270px;}
 .extra-small-screen {height:300px;}
 .small-screen {height:400px;}
