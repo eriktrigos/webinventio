@@ -41,6 +41,8 @@
         <link rel="stylesheet" href="css/bootsnav.css">
         <!-- style -->
         <link rel="stylesheet" href="css/style.css" />
+        <!-- loading screen -->
+        <link rel="stylesheet" href="css/loader.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css" />
         <!--[if IE]>
@@ -48,6 +50,13 @@
         <![endif]-->
     </head>
     <body class="bg-background-fade">
+        <!-- Loading screen -->
+        <div id="loader-wrapper">
+            <div id="loader"></div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+        </div>
+        <!-- end loading screen-->
         <!-- start header -->
         <header>
 			<!-- Start navigation -->
@@ -1095,6 +1104,9 @@
         <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>-->
         <!-- setting -->
         <script type="text/javascript" src="js/main.js"></script>
+        <!--loading screen -->
+        <script>window.jQuery || document.write('<script src="js/loading/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+        <script src="js/loading/main.js"></script>
         <div class="buy-theme alt-font corner text-center vertical-align-middle wow bounceInUp" data-wow-delay="2s">
             <a href="files/Portafolio_2018.pdf" download><i class="icon-download"></i><span>Descargar Portafolio</span></a>
         </div>
