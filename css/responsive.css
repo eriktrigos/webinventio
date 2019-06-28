@@ -4752,7 +4752,7 @@
 .xss-height-150px {height: 150px !important}
 }
 
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 991px){
 .tool {width: 50px !important}
 }
 
