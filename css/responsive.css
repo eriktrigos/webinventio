@@ -1330,9 +1330,6 @@
     .md-no-border-right {border-right:0 !important}
     .md-no-border-left {border-left:0 !important}
 
-
-    .corner {border-radius: 0px 0px 0px 0px;}
-
     /*equalize auto*/
     /*.md-equalize-auto > [class*='col-'] {height: auto !important; }*/   
 
@@ -4762,6 +4759,14 @@
 
 @media only screen and (max-width: 500px){
 .first-letter-resp {margin: 0 12px 0 0 !important}
+}
+
+@media only screen and (max-width: 1199px){
+.corner {border-radius: 3px 0px 0px 17px !important}
+}
+
+@media only screen and (max-width: 991px){
+.corner {border-radius: 0px 0px 0px 0px !important}
 }
 
 @media (max-width: 500px) {
