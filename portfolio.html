@@ -41,14 +41,22 @@
         <link rel="stylesheet" href="css/bootsnav.css">
         <!-- style -->
         <link rel="stylesheet" href="css/style.css" />
+        <!-- loading screen -->
+        <link rel="stylesheet" href="css/loader.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css" />
         <!--[if IE]>
             <script src="js/html5shiv.js"></script>
         <![endif]-->
     </head>
-
     <body class="width-100">
+        <!-- loading screen -->
+        <div id="loader-wrapper">
+            <div id="loader"></div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+        </div>
+        <!-- end loading screen-->
         <!-- start header -->
         <header>
             <!-- Start navigation -->
@@ -222,20 +230,6 @@
                                 </div>
                             </div>
                             <!-- end slide item -->
-                            <!-- start slide item 
-                            <div class="swiper-slide cover-background full-screen grid-item text-left" style="background-image:url(images/portfolio/mograph.gif);">
-                                <div class="slide-hover-box">
-                                    <div class="opacity-medium bg-black"></div>
-                                    <figure class="position-absolute">
-                                        <figcaption>
-                                            <a href="mograph.html"><h6 class="font-weight-300 text-white margin-20px-bottom">MOTION GRAPHICS</h6></a>
-                                            <p class="text-white width-85 sm-width-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                            <div class="separator-line-horrizontal-medium-light2 opacity5 bg-white margin-35px-top sm-margin-15px-top"></div>
-                                        </figcaption>
-                                    </figure>
-                                </div>
-                            </div>
-                             end slide item -->
                             <!-- start slide item -->
                             <div class="swiper-slide cover-background full-screen grid-item text-left" style="background-image:url(images/portfolio/socialmedia.jpg);">
                                 <div class="slide-hover-box">
@@ -285,7 +279,7 @@
                             <!-- end slide item -->
                         </div>
                         <!-- start slider pagination -->
-                        <div class="swiper-pagination swiper-pagination-four-slides swiper-pagination-white wow shake" data-wow-delay="1.4s"></div>
+                        <div class="swiper-pagination swiper-pagination-four-slides swiper-pagination-white wow shake" data-wow-delay="1.7s"></div>
                         <div class="swiper-button-next swiper-button-black-highlight display-none"></div>
                         <div class="swiper-button-prev swiper-button-black-highlight display-none"></div>
                         <!-- end slider pagination -->
@@ -346,20 +340,15 @@
         <!-- revolution -->
         <script type="text/javascript" src="revolution/js/jquery.themepunch.tools.min.js"></script>
         <script type="text/javascript" src="revolution/js/jquery.themepunch.revolution.min.js"></script>
-        <!-- revolution slider extensions (load below extensions JS files only on local file systems to make the slider work! The following part can be removed on server for on demand loading) -->
-        <!--<script type="text/javascript" src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
-        <script type="text/javascript" src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-        <script type="text/javascript" src="revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-        <script type="text/javascript" src="revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-        <script type="text/javascript" src="revolution/js/extensions/revolution.extension.migration.min.js"></script>
-        <script type="text/javascript" src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-        <script type="text/javascript" src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-        <script type="text/javascript" src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-        <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>-->
         <!-- setting -->
         <script type="text/javascript" src="js/main.js"></script>
+        <!--loading screen -->
+        <script>window.jQuery || document.write('<script src="js/loading/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+        <script src="js/loading/main.js"></script>
+        <!-- start download button -->
         <div class="buy-theme alt-font corner text-center vertical-align-middle btn-download">
             <a href="files/Portafolio_2018.pdf" download><i class="icon-download"></i><span>Descargar Portafolio</span></a>
         </div>
+        <!-- end download button -->
     </body>
 </html>

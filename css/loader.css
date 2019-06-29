@@ -54,7 +54,7 @@ h1 {
         right: 5px;
         bottom: 5px;
         border-radius: 50%;
-        border: 3px solid transparent;
+        border: 7px solid transparent;
         border-top-color: #fff;
 
         -webkit-animation: spin 3s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
