@@ -15,7 +15,7 @@
 
 @media (max-width: 991px){
     li.quitar {display: none !important;}
-    .wevada {
+    .btn-download {
         position: -webkit-sticky !important;  
         position: sticky !important;
         bottom: 0 !important;

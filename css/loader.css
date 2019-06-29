@@ -14,7 +14,7 @@
    ========================================================================== */
 p {
     line-height: 1.33em;
-    color: #7E7E7E;
+    color: #fff;
 }
 h1 {
     color: #EEEEEE;
@@ -55,7 +55,7 @@ h1 {
         bottom: 5px;
         border-radius: 50%;
         border: 3px solid transparent;
-        border-top-color: #0b0b40;
+        border-top-color: #fff;
 
         -webkit-animation: spin 3s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
         animation: spin 3s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
@@ -70,10 +70,10 @@ h1 {
         bottom: 15px;
         border-radius: 50%;
         border: 3px solid transparent;
-        border-top-color: #cc0042;
+        border-top-color: #fff;
 
-        -webkit-animation: spin 1.5s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
-          animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+        -webkit-animation: spin 1s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
+          animation: spin 1s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
     }
 
     @-webkit-keyframes spin {
