@@ -3025,7 +3025,7 @@
     .hover-option3 .grid-item figure figcaption {padding: 0 30px}
 
     .mfp-close, .mfp-close:active {top: 0; right: 0;}
-    button.mfp-arrow {background-color: #000; height: 80px; width: 80px; opacity: 1}
+    button.mfp-arrow {background-color: rgb(0,0,0,0); height: 80px; width: 80px; opacity: 1}
     .mfp-arrow:before {margin: 0 auto; width: 100%; height: 100%; display: inline-block; vertical-align: middle; text-align: center; line-height: 80px; border: 0}
     .mfp-arrow:active, .mfp-arrow:focus {margin-top: -55px}
     .mfp-arrow-left {left: 6px}
@@ -4637,7 +4637,7 @@
     nav.navbar .container-fluid { padding-left: 15px; padding-right: 15px;}
 
     .mfp-close, .mfp-close:active {top: 0; right: 0;}
-    button.mfp-arrow {background-color: #000; height: 50px; width: 50px; opacity: 1}
+    button.mfp-arrow {background-color: rgb(0,0,0,0); height: 50px; width: 50px; opacity: 1}
     .mfp-arrow:before {margin: 0 auto; width: 100%; height: 100%; display: inline-block; vertical-align: middle; text-align: center; line-height: 50px; border: 0}
     .mfp-arrow, .mfp-arrow:active, .mfp-arrow:focus {margin-top: -25px}
     .mfp-arrow-left {left: 6px}
