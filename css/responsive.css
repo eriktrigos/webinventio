@@ -2927,7 +2927,7 @@
     .portfolio-grid.work-4col li.grid-item-double, .blog-grid.blog-4col li.grid-item-double { width:50%; }    
     .portfolio-grid.work-4col li.grid-item-double:last-child, .blog-grid.blog-4col li.grid-item-double:last-child { width: 50%;}
 
-    .portfolio-grid.work-3col li, .blog-grid.blog-3col li {width: 50%;}
+    .portfolio-grid.work-3col li, .blog-grid.blog-3col li {width: 33.33%;}
     .portfolio-grid.work-3col li.grid-item-double, .blog-grid.blog-3col li.grid-item-double { width: 50%;}
 
     /*equalize auto*/
