@@ -51,14 +51,15 @@
     <body>
             <!-- start header -->
             <header>
-               <!-- start navigation -->
+               <!-- Start navigation -->
                 <nav class="navbar bg-transparent navbar-top navbar-transparent-no-sticky full-width-pull-menu white-link no-transition">
                     <div class="container-fluid nav-header-container height-100px padding-three-half-lr xs-height-70px xs-padding-15px-lr">
-                        <!-- start header navigation -->
+                        <!-- Start header navigation -->
                         <div class="row">
                             <!-- start social links -->
                             <div class="col-md-4 col-sm-4 col-xs-6 hidden-xs center-col text-left">
-                                <div class="header-social-icon border-none no-padding-left no-margin-left"></div>
+                                <div class="header-social-icon border-none no-padding-left no-margin-left">
+                                </div>
                             </div>
                             <!-- end social links -->
                             <!-- start logo -->
@@ -66,39 +67,64 @@
                                 <a class="logo" href="index.html"><img src="images/logo/logo-white.png" data-at2x="images/logo/logo-white@2x.png" alt="Inventio Estudios"></a>
                             </div>
                             <!-- end logo -->
-                           <div class="col-md-4 col-sm-4 col-xs-6 center-col text-right">
+                            <div class="col-md-4 col-sm-4 col-xs-6 center-col text-right">
                                 <button class="navbar-toggle mobile-toggle top-0" type="button" id="open-button" data-toggle="collapse" data-target=".navbar-collapse">
                                     <span></span>
                                     <span></span>
                                     <span></span>
                                 </button>
                                 <div class="menu-wrap full-screen no-padding">
-                                    <div class="col-sm-6 no-padding hidden-xs"> 
+                                    <div class="col-md-8 col-sm-8 no-padding hidden-xs"> 
                                         <div class="cover-background full-screen">     
-                                            <div class="opacity-light bg-extra-dark-gray"></div>
+                                            <div class="opacity-light bg-extra-dark-gray">                                                
+                                            </div>
                                             <div class="position-absolute height-100 width-100 text-center">
                                                 <div class="display-table height-100 width-100">
-                                                    <div class="display-table-cell height-100 width-100 vertical-align-middle position-relative"></div>
+                                                    <div class="display-table-cell height-100 width-100 vertical-align-middle position-relative">
+                                                    </div>
                                                 </div>                                                            
                                             </div>                                                    
                                         </div>
                                     </div>
-                                    <div class="col-sm-6 no-padding bg-white full-screen text-left">
+                                    <div class="col-md-4 col-sm-4 no-padding bg-white full-screen text-left">
                                         <div class="position-absolute height-100 width-100 overflow-auto">
                                             <div class="display-table height-100 width-100">
-                                                <div class="display-table-cell height-100 width-100 vertical-align-middle padding-fourteen-lr alt-font link-style-2 sm-padding-seven-lr xs-padding-15px-lr">
+                                                <div class="display-table-cell height-100 width-100 vertical-align-middle  padding-fourteen-lr alt-font link-style-2 sm-padding-seven-lr xs-padding-15px-lr">
                                                     <!-- start menu -->
-                                                    <ul class="font-weight-600 xs-no-padding-left">
+                                                    <ul class="font-weight-600">
                                                         <!-- start menu item -->
-                                                        <li><a href="#about" class="inner-link">Sobre mí</a></li>
-                                                        <li><a href="#services" class="inner-link">Servicios</a></li>
-                                                        <li><a href="#portfolio" class="inner-link">Portafolio</a></li>
-                                                        <li><a href="#contacto" class="inner-link">Contacto</a></li>
+                                                        <li>
+                                                            <a href="index.html#about" class="inner-link">Sobre mí</a>
+                                                        </li>
+                                                        <!-- end menu item -->
+                                                        <!-- start menu item -->
+                                                        <li>
+                                                            <a href="index.html#services" class="inner-link">Servicios</a>
+                                                        </li>
+                                                        <!-- end menu item -->
+                                                        <!-- start menu item -->
+                                                        <li class="dropdown">
+                                                        <a href="" data-toggle="dropdown">Portafolio</a>
+                                                        <ul class="dropdown-menu font-weight-300">
+                                                            <li><a href="branding.html">Branding</a></li>
+                                                            <li><a href="3d.html">3D Modeling</a></li>
+                                                            <li><a href="mograph.html">Motion Graphics</a></li>
+                                                            <li><a href="foto.html">Fotografía</a></li>
+                                                            <li><a href="socialmedia.html">Marketing Digital</a></li>
+                                                            <li><a href="audiovisual.html">Audiovisual</a></li>
+                                                            <li><a href="web.html">Web&App's</a></li>
+                                                        </ul>
+                                                        </li>
+                                                        <!-- end menu item -->
+                                                        <!-- start menu item -->
+                                                        <li>
+                                                            <a href="index.html#contacto" class="inner-link">Contacto</a>
+                                                        </li>
                                                         <!-- end menu item -->
                                                     </ul>
                                                     <!-- end menu -->
                                                     <!-- start social links -->
-                                                    <div class="margin-fifteen-top padding-35px-left xs-no-padding-left">
+                                                    <div class="margin-fifteen-top padding-35px-left">
                                                         <div class="icon-social-medium margin-three-bottom">
                                                             <a href="https://www.facebook.com/inventio.estudios/" target="_blank" class="text-extra-dark-gray text-deep-pink-hover margin-one-lr"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                                             <a href="https://www.instagram.com/inventio.3d/" target="_blank" class="text-extra-dark-gray text-deep-pink-hover margin-one-lr"><i class="fa fa-instagram" aria-hidden="true"></i></a>
@@ -108,7 +134,7 @@
                                                             <a href="https://www.linkedin.com/in/inventioestudios/" target="_blank" class="text-extra-dark-gray text-deep-pink-hover margin-one-lr"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                                                         </div>
                                                     </div>
-                                                    <!-- End social links -->
+                                                    <!-- start social links -->
                                                 </div>
                                             </div>
                                         </div>
@@ -116,10 +142,12 @@
                                     </div>
                                 </div>
                             </div>
-                        </div> 
+                            <!-- start menu -->
+                        </div>
+                        <!-- end header navigation -->
                     </div>
                 </nav>
-                <!-- end navigation -->
+            <!-- end navigation -->
             </header>
             <!-- end header -->
             <!-- start cover section -->
@@ -234,7 +262,7 @@
                                 <!-- start slide item -->
                                 <div class="swiper-slide grid-item">           
                                         <figure>
-                                            <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/slider-1.jpg" alt=""/></div>
+                                            <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/slider-1.jpg" alt="Ilustración"/></div>
                                             <figcaption>
                                                 <div class="portfolio-hover-main text-center">
                                                     <div class="portfolio-hover-box vertical-align-middle">
@@ -252,7 +280,7 @@
                                 <!-- start slide item -->
                                 <div class="swiper-slide grid-item">
                                         <figure>
-                                            <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/slider-2.jpg" alt=""/></div>
+                                            <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/slider-2.jpg" alt="Fotografía"/></div>
                                             <figcaption>
                                                 <div class="portfolio-hover-main text-center">
                                                     <div class="portfolio-hover-box vertical-align-middle">
@@ -269,7 +297,7 @@
                                 <!-- start slide item -->
                                 <div class="swiper-slide grid-item">
                                         <figure>
-                                            <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/slider-3.jpg" alt=""/></div>
+                                            <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/slider-3.jpg" alt="Diseño"/></div>
                                             <figcaption>
                                                 <div class="portfolio-hover-main text-center">
                                                     <div class="portfolio-hover-box vertical-align-middle">
@@ -286,7 +314,7 @@
                                 <!-- start slide item -->
                                 <div class="swiper-slide grid-item">
                                         <figure>
-                                            <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/slider-4.jpg" alt=""/></div>
+                                            <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/slider-4.jpg" alt="Modelo 3D"/></div>
                                             <figcaption>
                                                 <div class="portfolio-hover-main text-center">
                                                     <div class="portfolio-hover-box vertical-align-middle">
@@ -327,20 +355,20 @@
                     <ul class="portfolio-grid work-2col hover-option2 gutter-large">
                         <li class="grid-sizer"></li>
                         <li class="grid-item wow fadeInUp">
-                            <div class=""><img src="images/proyectos/jarana/test-1.jpg"/></div>
+                            <div class=""><img src="images/proyectos/jarana/test-1.jpg" alt="Test 1"/></div>
                         </li>
                         <!-- end image gallery item -->
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.2s">
-                            <div class=""><img src="images/proyectos/jarana/test-2.jpg"/></div>
+                            <div class=""><img src="images/proyectos/jarana/test-2.jpg" alt="Test 2"/></div>
                         </li>
                         <!-- end image gallery item -->
                         <!-- start image gallery item -->
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.4s">
-                            <div class=""><img src="images/proyectos/jarana/test-3.jpg"/></div>
+                            <div class=""><img src="images/proyectos/jarana/test-3.jpg" alt="Test 3"/></div>
                         </li>
                         <!-- end image gallery item -->
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.6s">
-                            <div class=""><img src="images/proyectos/jarana/test-4.jpg"/></div>
+                            <div class=""><img src="images/proyectos/jarana/test-4.jpg" alt="Test 4"/></div>
                         </li>
                         <!-- end image gallery item -->
                     </ul>
@@ -370,7 +398,7 @@
                         <li class="grid-item wow fadeInUp">
                             <a href="images/proyectos/jarana/galeria-1.jpg" title="Rosetón" data-group="two-columns-zoom-animation" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/galeria-1.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/galeria-1.jpg" alt="Rosetón" class="project-img-gallery"/></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
@@ -388,7 +416,7 @@
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.2s">
                             <a href="images/proyectos/jarana/galeria-2.jpg" title="Cabezal" data-group="two-columns-zoom-animation" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/galeria-2.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/galeria-2.jpg" alt="Cabezal" class="project-img-gallery"/></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
@@ -406,7 +434,7 @@
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.4s">
                             <a href="images/proyectos/jarana/galeria-3.jpg" title="Puente" data-group="two-columns-zoom-animation" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/galeria-3.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/galeria-3.jpg" alt="Puente" class="project-img-gallery"/></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
@@ -427,7 +455,7 @@
                         <li class="grid-item wow fadeInUp" data-wow-delay="0.6s">
                             <a href="images/proyectos/jarana/galeria-4.jpg" title="Jarana" data-group="two-columns-zoom-animation" class="lightbox-group-gallery-item">
                                 <figure>
-                                    <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/galeria-4.jpg" alt="" class="project-img-gallery"/></div>
+                                    <div class="portfolio-img bg-orange"><img src="images/proyectos/jarana/galeria-4.jpg" alt="Jarana" class="project-img-gallery"/></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
                                             <div class="portfolio-hover-box vertical-align-middle">
