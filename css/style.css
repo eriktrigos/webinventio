@@ -1546,6 +1546,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .padding-twenty-four-half-tb {padding-top:24.5%; padding-bottom:24.5%;}
 .padding-twenty-five-tb {padding-top:25%; padding-bottom:25%;}
 .padding-thirty-tb {padding-top:30%; padding-bottom:30%;}
+.padding-fifty-tb {padding-top:50%; padding-bottom:50%;}
 .padding-5px-tb {padding-top:5px; padding-bottom:5px;}
 .padding-10px-tb {padding-top:10px; padding-bottom:10px;}
 .padding-15px-tb {padding-top:15px; padding-bottom:15px;}
@@ -3360,7 +3361,7 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {padding: 20px; margin: 0 
 
 /* counter box style 5 */
 .counter-box-5 .counter-box {display: inline-block; width: 13%; padding: 0; vertical-align: top; text-align: center; position: relative;} 
-.counter-box-5 .counter-box .number {display: block; font-weight: 400; font-size: 80px; line-height: 80px; letter-spacing: -3px}
+.counter-box-5 .counter-box .number {display: block; font-weight: 400; font-size: 60px; line-height: 80px; letter-spacing: -2px}
 .counter-box-5 .counter-box span {font-weight: 400; font-size: 12px; letter-spacing: 1px; opacity: 0.5; line-height: 28px; text-transform: uppercase;}
 
 /* skillbar bar style 1  */
