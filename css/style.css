@@ -444,6 +444,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .btn.btn-light-gray:hover, .btn.btn-light-gray:focus {background: transparent; border-color: #dbdbdb; color: #dbdbdb}
 .btn.btn-deep-pink {background: #ff5800; border-color: #ff5800; color: #ffffff}
 .btn.btn-deep-pink:hover, .btn.btn-deep-pink:focus {background: transparent; border-color: #ff5800; color: #ff5800f}
+.btn.btn-white2 {background:#ffffff; border-color: #ffffff; color: #ff5800}
 
 /* button transparent */
 .btn.btn-transparent-white {background: transparent; border-color: #ffffff; color: #ffffff}
@@ -3802,7 +3803,7 @@ aside .latest-post li figure {width: 75px;}
 
 .encima-texto{
     position: absolute;
-    top: 97%;
+    top: 96%;
     left:50%;
     transform: translate(-50%, -50%);
     color: #ff5800;
@@ -3827,6 +3828,13 @@ aside .latest-post li figure {width: 75px;}
   text-justify: inter-word;
 }
 
+.e-resize {
+    cursor: e-resize;
+}
+
+.all-scroll {
+    cursor: all-scroll;
+}
 /* ===================================
    demo page css
 ====================================== */
