@@ -1,6 +1,6 @@
 Branding
 	1. Coloquio
-	2. Tapi*
+	2. Tapi
 	3. Campania
 	4. U Consulting
 	5. Pacto mundial
@@ -11,7 +11,7 @@ Branding
 	1. Caro
 	2. Miguel
 	3. Torre
-	4. Ofrenda
+	4. Ofrenda*
 	5. AB
 	6. Vacancy
 	7. Jarana*
@@ -25,7 +25,7 @@ Branding
 
 Motion Graphics
 	1. Cosana
-	2. 2Box*
+	2. 2Box
 	3. Gas Rosa
 	4. Natura
 	5. Isweb
@@ -33,7 +33,7 @@ Motion Graphics
 	7. Triska
 
 Fotografía
-	1.Gracias*
+	1.Gracias
 		1. Marruecos
 		2. Grecia
 		3. España
@@ -65,11 +65,11 @@ Marketing Digital
 
 Audiovisual
 	1. Esperando
-	2. Tacos va!*
+	2. Tacos va!
 
 Web&App's
 	1. Plus Real
-	2. Serviproce*
+	2. Serviproce
 	3. Café Arrebol
 	4. Almer
 	5. Stemtech
