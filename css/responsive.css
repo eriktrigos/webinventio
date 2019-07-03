@@ -236,6 +236,7 @@
     .md-margin-20px-top {margin-top:20px !important;}
     .md-margin-25px-top {margin-top:25px !important;}
     .md-margin-30px-top {margin-top:30px !important;}
+    .md-margin-34px-top {margin-top:34px !important;}
     .md-margin-35px-top {margin-top:35px !important;}
     .md-margin-40px-top {margin-top:40px !important;}
     .md-margin-45px-top {margin-top:45px !important;}
@@ -4736,7 +4737,7 @@
 @media screen and (max-height: 320px){
     nav.navbar.bootsnav.no-full .navbar-collapse{max-height: 240px;}
 }
-@media only screen and (max-width: 1365px){
+@media only screen and (max-width: 991px){
     .encima-texto{ display: none; }
     .encima-icono{ display: none; }
 }
