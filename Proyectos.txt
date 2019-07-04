@@ -19,7 +19,7 @@ Branding
 	9. Inventio
 	10. Cosana
 	11. Mooncake
-	12. Memorias
+	12. Memorias*
 	13. Frutitas
 	14. Domestika
 
@@ -32,7 +32,7 @@ Motion Graphics
 	6. Lif
 	7. Triska
 
-Fotografía
+Fotograf’a
 	1.Gracias
 		1. Marruecos
 		2. Grecia
@@ -46,7 +46,7 @@ Fotografía
 		11. Argentina
 		12. Chile
 		13. Bolivia
-		14. Perú
+		14. Perœ
 	2. Rooster
 	3. Save
 	4. Gordo Grill
@@ -55,7 +55,7 @@ Fotografía
 	7. FICG
 
 Marketing Digital
-	1. Save*
+	1. Save
 	2. Tortas Toño
 	3. 2Box
 	4. Tacos Va!
