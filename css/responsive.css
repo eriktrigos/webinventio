@@ -2478,6 +2478,7 @@
     .sm-padding-90px-right {padding-right:90px !important;}
     .sm-padding-95px-right {padding-right:95px !important;}
     .sm-padding-100px-right {padding-right:100px !important;}
+    .sm-padding-300px-right {padding-right:300px !important;}
 
     /* padding left */
     .sm-padding-one-left {padding-left:1%;}
@@ -4770,6 +4771,14 @@
 .corner {border-radius: 0px 0px 0px 0px !important}
 }
 
+@media only screen and (max-width: 700px){
+.xxs-padding-50px-right {padding-right:100px !important;}
+}
+
+@media only screen and (max-width: 540px){
+.xxs-no-padding-right {padding-right:0px !important;}
+}
+
 @media (max-width: 500px) {
 
     body { font-size: 12px; line-height: 20px}
@@ -4781,3 +4790,7 @@
     h4 {font-size:24px; line-height:30px}
     h5 {font-size:20px; line-height:28px}
     h6 {font-size:18px; line-height:23px}
+
+
+
+
