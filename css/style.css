@@ -96,6 +96,7 @@ h6 {font-size:25px; line-height:30px}
 .text-medium {font-size:16px; line-height:23px}
 .text-large {font-size:18px; line-height:26px}
 .text-extra-large {font-size: 20px; line-height:26px}
+.text-extra-extra-large {font-size: 24px; line-height:14px}
 .title-large {font-size: 100px; line-height:95px}
 .title-extra-large {font-size: 130px; line-height:120px}
 .xs-text-medium {font-size:26px; line-height:30px}
@@ -191,6 +192,7 @@ a.text-very-light-gray-hover:hover {color:#ededed}
 .text-decoration-line-through {text-decoration:line-through;}
 .line-height-unset {line-height: unset}
 .line-height-normal {line-height: normal}
+.line-height-24 {line-height: 30px}
 .line-height-none {line-height:0}
 .word-wrap {word-wrap: break-word}
 .text-nowrap{white-space: nowrap;}
