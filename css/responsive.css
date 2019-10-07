@@ -4755,6 +4755,14 @@
 .tool {width: 50px !important}
 }
 
+@media only screen and (max-width: 991px){
+.toolnikon {height: 63px !important; width: 78px }
+}
+
+@media only screen and (max-width: 991px){
+.toolcanon {height: 63px !important; width: 88px }
+}
+
 @media only screen and (max-width: 500px){
 .piezas {width: 40px !important}
 }
@@ -4784,7 +4792,7 @@
     body { font-size: 12px; line-height: 20px}
 
     h1, h2, h3, h4, h5, h6 {margin:0 0 17px; padding:0; letter-spacing: 0; font-weight: 400;}
-    h1 {font-size:37px; line-height: 42px;}
+    h1 {font-size:37px !important; line-height: 42px !important; }
     h2 {font-size:30px; line-height:36px}
     h3 {font-size:26px; line-height:30px}
     h4 {font-size:24px; line-height:30px}
