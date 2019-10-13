@@ -4763,6 +4763,14 @@
 .toolcanon {height: 63px !important; width: 88px }
 }
 
+@media only screen and (max-width: 991px){
+.flag {width: 35px !important; padding-bottom: 2px !important;}
+}
+
+@media only screen and (max-width: 767px){
+.flag {width: 30px !important; padding-bottom: 1px !important;}
+}
+
 @media only screen and (max-width: 500px){
 .piezas {width: 40px !important}
 }
