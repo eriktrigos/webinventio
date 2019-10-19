@@ -1959,7 +1959,7 @@ footer .extra-small-icon li:last-child, footer .small-icon li:last-child, footer
 .extra-large-icon a {font-size: 30px; width: 70px; height: 70px;line-height: 68px;}
 
 /* social icon style */
-.social-icon-style-1 a.facebook,.social-icon-style-2 a.facebook,.social-icon-style-3 a.facebook,.social-icon-style-4 a.facebook span,.social-icon-style-10 a.facebook span {background-color: #3b5998}
+.social-icon-style-1 a.facebook,.social-icon-style-2 a.facebook,.social-icon-style-3 a.facebook,.social-icon-style-4 a.facebook span,.social-icon-style-10 a.facebook span {background-color: #1877f2}
 .social-icon-style-1 a.twitter,.social-icon-style-2 a.twitter,.social-icon-style-3 a.twitter,.social-icon-style-4 a.twitter span,.social-icon-style-10 a.twitter span {background-color: #00aced}
 .social-icon-style-1 a.google,.social-icon-style-2 a.google,.social-icon-style-3 a.google,.social-icon-style-4 a.google span,.social-icon-style-10 a.google span {background-color: #dc4a38}
 .social-icon-style-1 a.dribbble,.social-icon-style-2 a.dribbble,.social-icon-style-3 a.dribbble,.social-icon-style-4 a.dribbble span,.social-icon-style-10 a.dribbble span {background-color: #ea4c89}
@@ -3808,7 +3808,12 @@ aside .latest-post li figure {width: 75px;}
     position: relative;
     display: inline-block;
     text-align: center;
-}    
+}   
+
+.imagen-editorial{
+    position: relative;
+    text-align: center;
+}   
 
 .encima-texto{
     position: absolute;
