@@ -44,6 +44,16 @@ Table of contents
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:200,200i,300,300i,400,400i,600,600i,700,700i,900&display=swap');
 
 @font-face {
+  font-family: 'MuseoSansW01-100';
+  src: url('/fonts/Museo/MuseoSansW01-100.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/Museo/MuseoSansW01-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/Museo/MuseoSansW01-100.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/Museo/MuseoSansW01-100.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/Museo/MuseoSansW01-100.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/Museo/MuseoSansW01-100.svg#svgMuseoSansW01-100') format('svg'); /* Legacy iOS */ 
+   }
+
+@font-face {
   font-family: 'MuseoSansW01-300';
   src: url('/fonts/Museo/MuseoSansW01-300.eot'); /* IE9 Compat Modes */
   src: url('/fonts/Museo/MuseoSansW01-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -53,11 +63,42 @@ Table of contents
        url('/fonts/Museo/MuseoSansW01-300.svg#svgMuseoSansW01-300') format('svg'); /* Legacy iOS */ 
    }
 
+@font-face {
+  font-family: 'MuseoSansW01-500';
+  src: url('/fonts/Museo/MuseoSansW01-500.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/Museo/MuseoSansW01-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/Museo/MuseoSansW01-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/Museo/MuseoSansW01-500.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/Museo/MuseoSansW01-500.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/Museo/MuseoSansW01-500.svg#svgMuseoSansW01-500') format('svg'); /* Legacy iOS */ 
+   }
+
+@font-face {
+  font-family: 'MuseoSansW01-700';
+  src: url('/fonts/Museo/MuseoSansW01-700.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/Museo/MuseoSansW01-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/Museo/MuseoSansW01-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/Museo/MuseoSansW01-700.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/Museo/MuseoSansW01-700.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/Museo/MuseoSansW01-700.svg#svgMuseoSansW01-700') format('svg'); /* Legacy iOS */ 
+   }
+
+@font-face {
+  font-family: 'MuseoSansW01-900';
+  src: url('/fonts/Museo/MuseoSansW01-900.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/Museo/MuseoSansW01-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/Museo/MuseoSansW01-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/Museo/MuseoSansW01-900.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/Museo/MuseoSansW01-900.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/Museo/MuseoSansW01-900.svg#svgMuseoSansW01-900') format('svg'); /* Legacy iOS */ 
+   }
+
+
 /* ===================================
     Reset
 ====================================== */
 
-body{ font-family: 'MuseoSansW01-300', Fallback, sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:14px; color:#ffffff;line-height: 24px;}
+body{ font-family: 'MuseoSansW01-500', Fallback, sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:14px; color:#ffffff;line-height: 24px;}
 body, html { height: 100%; -moz-osx-font-smoothing: grayscale;}
 a, a:active, a:focus { color: #ffffff; text-decoration: none; font-weight: 400;  }
 a:hover, a:active{color: #ff5800; text-decoration: none;}
@@ -89,8 +130,8 @@ ul, ol, dl {list-style-position: outside; margin-bottom: 25px}
 ====================================== */
 
 /* font family */
-.alt-font {font-family: 'MuseoSansW01-300', Fallback, sans-serif; }
-.main-font {font-family: 'MuseoSansW01-300', Fallback, sans-serif;}
+.alt-font {font-family: 'MuseoSansW01-500', Fallback, sans-serif; }
+.main-font {font-family: 'MuseoSansW01-500', Fallback, sans-serif;}
 
 /* heading */
 h1, h2, h3, h4, h5, h6 {margin:0 0 25px; padding:0; letter-spacing: 0;}
@@ -189,7 +230,7 @@ a.color-flickr:hover, a.color-flickr:focus {color:#ff0080}
 .letter-spacing-minus-10 {letter-spacing:-10px}
 
 /* font weight */
-.font-weight-100 {font-weight:100}
+/*.font-weight-100 {font-weight:100}
 .font-weight-200 {font-weight:200}
 .font-weight-300 {font-weight:300}
 .font-weight-400 {font-weight:400}
@@ -197,7 +238,13 @@ a.color-flickr:hover, a.color-flickr:focus {color:#ff0080}
 .font-weight-600 {font-weight:600}
 .font-weight-700 {font-weight:700}
 .font-weight-800 {font-weight:800}
-.font-weight-900 {font-weight:900 !important}
+.font-weight-900 {font-weight:900 !important} */
+
+.font-thin {font-family: 'MuseoSansW01-100', Fallback, sans-serif;}
+.font-light {font-family: 'MuseoSansW01-300', Fallback, sans-serif;}
+.font-regular {font-family: 'MuseoSansW01-500', Fallback, sans-serif;}
+.font-bold {font-family: 'MuseoSansW01-700', Fallback, sans-serif;}
+.font-black {font-family: 'MuseoSansW01-900', Fallback, sans-serif;}
 
 /* text property */
 .text-transform-unset {text-transform:unset}
@@ -437,7 +484,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
     Button
 ====================================== */
 
-.btn {display:inline-block; border:2px solid transparent; letter-spacing: .5px; line-height: inherit; border-radius: 0; text-transform: uppercase; width: auto; font-family: 'Montserrat', sans-serif; font-weight: 600; transition-duration: 0.3s; transition-timing-function: ease-in-out}
+.btn {display:inline-block; border:2px solid transparent; letter-spacing: .5px; line-height: inherit; border-radius: 0; text-transform: uppercase; width: auto; font-family: 'MuseoSansW01-500' !important, Fallback, sans-serif; transition-duration: 0.3s; transition-timing-function: ease-in-out}
 
 /* button size */
 .btn.btn-very-small {font-size:9px; padding: 1px 10px; line-height: 14px;}
@@ -2216,7 +2263,7 @@ footer .small-icon li {margin: 0 8px;}
 .mfp-arrow-right:before {border-left: none; content: "\e628"; font-size: 2em; font-family: 'themify'; color: #fff;}
 .mfp-arrow-left:before {border-right: none; content: "\e629"; font-size: 2em; font-family: 'themify'; color: #fff;}
 .mfp-bottom-bar {margin-top: -24px; font-size: 12px}
-.mfp-close {font-size: 36px; font-family: 'Montserrat', sans-serif; font-weight: 500}
+.mfp-close {font-size: 36px; font-family: 'MuseoSansW01-500' !important, Fallback, sans-serif;}
 
 @-webkit-keyframes fadeIn {0% {opacity: 0;} 100% {opacity: 1;}}
 @-moz-keyframes fadeIn {0% {opacity: 0;} 100% {opacity: 1;}}
@@ -2939,7 +2986,7 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {padding: 20px; margin: 0 
 .blog-grid .grid-item a img {width: 100%;}
 
 /* justified gallery */
-.justified-gallery>a>.caption, .justified-gallery>div>.caption {padding:7px 15px; opacity: 0; display: initial !important; bottom: -20px;  transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s; -ms-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s; font-family: 'Montserrat', sans-serif; font-weight: 600; font-size: 11px; text-transform: uppercase}
+.justified-gallery>a>.caption, .justified-gallery>div>.caption {padding:7px 15px; opacity: 0; display: initial !important; bottom: -20px;  transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s; -ms-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s; font-family: 'MuseoSansW01-500' !important, Fallback, sans-serif; font-size: 11px; text-transform: uppercase}
 .caption.caption-visible {opacity: 1; bottom: 0 !important}
 
 /* portfolio hover style */
