@@ -1512,12 +1512,12 @@
     .dropdown-menu { box-shadow: none; border: none; border-top: 1px solid rgba(255, 255, 255, 0.06);}
     .navbar-collapse {left: 0; padding:0; position: absolute; top: 100%; width: 100%;}
     nav.navbar.bootsnav ul.nav > li.dropdown > ul.dropdown-menu, nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu.mega-menu { padding: 10px 15px 0 !important; margin: 0; float: left; top: 0 !important; }
-    nav.navbar.bootsnav .navbar-nav { margin: 0; padding: 0; background-color: rgba(23, 23, 23, 0.95); }
+    nav.navbar.bootsnav .navbar-nav { margin: 0; padding: 0; background-color: rgba(0, 0, 0, 0.15); width: 300px;}
     nav.navbar.bootsnav li.dropdown .mega-menu-full > ul > li {border-bottom: none; margin-bottom: 10px}
     nav.navbar.bootsnav li.dropdown.open .mega-menu-full {padding-top: 10px;}
     nav.navbar.bootsnav li.dropdown .mega-menu-full > ul > li:last-child {margin-bottom: 0}
     nav.navbar.bootsnav .navbar-nav li, nav.navbar.bootsnav li.dropdown ul.mega-menu-full li.dropdown-header { display: block; clear: both; border-bottom: 1px solid rgba(255, 255, 255, 0.06); border-top: 0; }
-    .navbar-nav li > a, nav.navbar.navbar-default ul.nav > li > a, nav.navbar-brand-top.navbar.navbar-default ul.nav > li > a, header .navbar-nav li > a, header nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li > a, header nav.navbar-fixed-top.header-light.white-link .navbar-nav > li > a , nav.navbar.bootsnav li.dropdown ul.mega-menu-full li > a,header.sticky nav.navbar.navbar-default.navbar-fixed-top ul.nav > li > a, header.sticky nav.navbar.navbar-default.navbar-top ul.nav > li > a, nav.navbar.bootsnav li.dropdown ul.mega-menu-full li.dropdown-header{ margin: 0; padding: 9px 15px 8px; color: #939393; display: block; line-height: normal;}
+    .navbar-nav li > a, nav.navbar.navbar-default ul.nav > li > a, nav.navbar-brand-top.navbar.navbar-default ul.nav > li > a, header .navbar-nav li > a, header nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li > a, header nav.navbar-fixed-top.header-light.white-link .navbar-nav > li > a , nav.navbar.bootsnav li.dropdown ul.mega-menu-full li > a,header.sticky nav.navbar.navbar-default.navbar-fixed-top ul.nav > li > a, header.sticky nav.navbar.navbar-default.navbar-top ul.nav > li > a, nav.navbar.bootsnav li.dropdown ul.mega-menu-full li.dropdown-header{ margin: 0; padding: 9px 15px 8px; color: #fff; display: block; line-height: normal;}
     .navbar-nav li > a, nav.navbar.navbar-default ul.nav > li > a, header .navbar-nav li > a, header nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li > a,header.sticky nav.navbar.navbar-default.navbar-fixed-top ul.nav > li > a, header.header-appear nav.bootsnav.header-light-transparent .navbar-nav > li > a, header.header-appear nav.bootsnav.header-light .navbar-nav > li > a { color: #fff; }
     nav.navbar.bootsnav ul.nav > li.dropdown > ul.dropdown-menu  li a, nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu.mega-menu li a, nav.navbar.bootsnav li.dropdown ul.mega-menu-full li.dropdown-header { padding-left: 0; padding-right: 0;}
     .simple-dropdown.open > ul > li { border: 0 !important}
@@ -3084,7 +3084,6 @@
 
     h1, h2, h3, h4, h5, h6 {margin:0 0 17px; padding:0; letter-spacing: 0; font-weight: 400;}
     h1 {font-size:37px; line-height: 42px;}
-    h2 {font-size:30px; line-height:36px}
     h3 {font-size:28px; line-height:34px}
     h4 {font-size:24px; line-height:30px}
     h5 {font-size:20px; line-height:28px}
@@ -4755,6 +4754,10 @@
 .tool {width: 50px !important}
 }
 
+@media only screen and (max-width: 400px){
+.tool {width: 40px !important}
+}
+
 @media only screen and (max-width: 991px){
 .toolnikon {height: 63px !important; width: 78px }
 }
@@ -4809,11 +4812,24 @@
 
     h1, h2, h3, h4, h5, h6 {margin:0 0 17px; padding:0; letter-spacing: 0; font-weight: 400;}
     h1 {font-size:37px !important; line-height: 42px !important; }
-    h2 {font-size:30px; line-height:36px}
     h3 {font-size:26px; line-height:30px}
     h4 {font-size:24px; line-height:30px}
     h5 {font-size:20px; line-height:28px}
     h6 {font-size:18px; line-height:23px}
+}
+
+
+@media only screen and (max-width: 991px){
+.ficha {width: 500px !important}
+}
+
+@media only screen and (max-width: 630px){
+.ficha {width: 350px !important}
+}
+
+@media only screen and (max-width: 400px){
+.ficha {width: 300px !important}
+}
 
 
 
