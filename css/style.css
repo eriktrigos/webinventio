@@ -494,7 +494,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .btn.btn-large {font-size:13px; padding: 9px 34px; line-height: 25px}
 .btn.btn-extra-large {font-size:15px; padding: 12px 40px 13px;  line-height: 25px}
 .btn-dual .btn {margin: 0 10px; }
-.btn i {margin-left: 6px; vertical-align: middle; position: relative; top:-1px}
+.btn i {margin-left: 2.5px; vertical-align: middle; position: relative; top:-2px}
 
 /* button background */
 .btn.btn-white {background:#ffffff; border-color: #ffffff; color: #232323}
@@ -2935,15 +2935,15 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {padding: 20px; margin: 0 
 ====================================== */
 
 /* gutter type */
-.portfolio-grid.gutter-very-small li, .blog-grid.gutter-very-small li {padding: 3px 3px }
+.portfolio-grid.gutter-very-small li, .blog-grid.gutter-very-small li {padding: 1.22px 1.22px }
 .portfolio-grid.gutter-small li, .blog-grid.gutter-small li {padding:5px 5px }
-.portfolio-grid.gutter-medium li, .blog-grid.gutter-medium li {padding:1.22px 1.22px }
+.portfolio-grid.gutter-medium li, .blog-grid.gutter-medium li {padding:10px 10px }
 .portfolio-grid.gutter-large li, .blog-grid.gutter-large li {padding:10px 10px; }
 .portfolio-grid.gutter-extra-large li, .blog-grid.gutter-extra-large li {padding:20px;}
 .portfolio-grid.gutter-extra-large, .blog-grid.gutter-extra-large {margin:0 -20px;}
 .blog-grid.gutter-large { margin-left: 10px; margin-right:10px;}
 .portfolio-grid.gutter-large { margin: 0 10px;}
-.portfolio-grid.gutter-very-small, .blog-grid.gutter-very-small {margin:0 3px }
+.portfolio-grid.gutter-very-small, .blog-grid.gutter-very-small {margin:0 7px }
 .portfolio-grid.gutter-small, .blog-grid.gutter-small {margin:0 5px }
 .portfolio-grid.gutter-medium, .blog-grid.gutter-medium {margin:0 7px }
 

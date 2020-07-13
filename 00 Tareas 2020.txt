@@ -1,0 +1,24 @@
+INDEX
+Cambiar color a gris: Texto Formulario 
+Arreglar: Menú responsive, muy feo
+Arreglar: Textos about me responsive
+Arreglar: Espacio entre imagenes de portafolio en responsive
+Cambiar en responsive: Orden de footer > Logo > Redes > Copyright
+
+PORTFOLIO POR ÁREA
+Agregar url: Al menú pero sin que afecte el cambio de aspecto al hacer scroll
+
+SINGLE 3D
+
+SINGLE MKTG
+Icono Área: Hover transición de color muy lento
+Hacer responsive: Celular con Galería
+Agregar: foto a la derecha del celular, que funcione como lightbox y que cambie la foto al hacer clic en el celular.
+
+SINGLE BRANDING
+
+SINGLE MOTION
+
+SINGLE PHOTO
+
+SINGLE UI
