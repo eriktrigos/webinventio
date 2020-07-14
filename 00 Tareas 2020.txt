@@ -1,5 +1,5 @@
 INDEX
-Cambiar color a gris: Texto Formulario 
+COMPLETADO - Cambiar color a gris: Texto Formulario 
 Arreglar: Menú responsive, muy feo
 Arreglar: Textos about me responsive
 Arreglar: Espacio entre imagenes de portafolio en responsive
