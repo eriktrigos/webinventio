@@ -378,7 +378,7 @@ section.half-section {padding:80px 0;}
 .input-group .required-error,.input-group .required-error + .input-group-btn button , .input-group .required-error + .input-group-btn a.btn{border: 1px solid #ee2323 !important}
 
 .input-border-white .input-border-bottom {border-bottom: 1px solid #B7B7B7; color: #ff5800; border-top: transparent !important;  border-left: transparent !important;  border-right: transparent !important}
-.input-border-white .input-border-bottom:focus{background: transparent; border-bottom: 1px solid #fff;  color: #B7B7B7 }
+.input-border-white .input-border-bottom:focus{background: transparent; border-bottom: 1px solid #fff;  color: #ff5800 }
 .input-border-white .input-border-bottom::-webkit-input-placeholder {color: #B7B7B7; }
 .input-border-white .input-border-bottom::-moz-placeholder {color: #B7B7B7;} 
 .input-border-white .input-border-bottom:-ms-input-placeholder { color: #B7B7B7;}

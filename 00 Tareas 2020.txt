@@ -1,14 +1,17 @@
 INDEX
 COMPLETADO - Cambiar color a gris: Texto Formulario 
 Arreglar: Menú responsive, muy feo
-Arreglar: Textos about me responsive
-Arreglar: Espacio entre imagenes de portafolio en responsive
-Cambiar en responsive: Orden de footer > Logo > Redes > Copyright
+COMPLETADO - Arreglar: Textos about me responsive
+COMPLETADO - Arreglar: Espacio entre imagenes de portafolio en responsive
+COMPLETADO - Cambiar en responsive: Orden de footer > Logo > Redes > Copyright
 
 PORTFOLIO POR ÁREA
-Agregar url: Al menú pero sin que afecte el cambio de aspecto al hacer scroll
+COMPLETADO (no trabajar subcarpetas) - Agregar url: Al menú pero sin que afecte el cambio de aspecto al hacer scroll
 
 SINGLE 3D
+ARREGLADO RESPONSIVE
+Quitar: Fonto naranja en hover, en imagenes de galería
+Ver que hacer con el botón de instagram
 
 SINGLE MKTG
 Icono Área: Hover transición de color muy lento

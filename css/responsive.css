@@ -4818,7 +4818,6 @@
     h6 {font-size:18px; line-height:23px}
 }
 
-
 @media only screen and (max-width: 991px){
 .ficha {width: 500px !important}
 }
@@ -4831,4 +4830,13 @@
 .ficha {width: 300px !important}
 }
 
+@media only screen and (max-width: 768px){
+.orden {
+    display: flex;
+    flex-direction: column;
+}
 
+.orden > .primero {order: 3; } /* Will be displayed third  */
+.orden > .segundo {order: 2; } /* Will be displayed second */
+.orden > .tercero {order: 1; } /* Will be displayed first  */
+}
