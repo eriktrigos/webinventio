@@ -2356,6 +2356,7 @@ header nav.navbar.white-link .navbar-nav > li > a, nav.navbar.bootsnav.white-lin
 header nav.navbar.white-link .header-social-icon a,  nav.navbar.bootsnav.white-link .header-social-icon a,
 header nav.navbar.white-link .header-searchbar a,  nav.navbar.bootsnav.white-link .header-searchbar a,
 header nav.navbar.bootsnav ul.nav.white-link > li > a,  nav.navbar.white-link .heder-menu-button a {color: #fff}
+header nav.navbar.bootsnav a > i {color: #fff}
 
 header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li > a,
 header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .header-searchbar a,
@@ -2364,6 +2365,7 @@ header.sticky nav.navbar-fixed-top.header-light.white-link .navbar-nav > li > a,
 header.sticky nav.navbar-fixed-top.header-light.white-link .header-searchbar a,
 header.sticky nav.navbar-fixed-top.header-light.white-link .header-social-icon a,
 header.sticky nav.navbar-fixed-top.header-light.white-link .header-menu-button a,
+header.sticky nav.navbar.bootsnav a > i,
 header.sticky nav.navbar-fixed-top.header-light.white-link .header-menu-button a {color: #ff5800}
 
 header .logo .logo-dark, header .logo .logo-light {visibility: hidden; opacity: 0; width: 0; transition-duration: 0.5s; -webkit-transition-duration: 0.5s; -moz-transition-duration: 0.5s; -ms-transition-duration: 0.5s; -o-transition-duration: 0.5s;}
