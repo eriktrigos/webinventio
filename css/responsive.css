@@ -16,8 +16,12 @@
 @media (max-width: 991px){
     li.quitar {display: none !important;}
     .btn-download {
-        position: absolute !important;
         bottom: 0 !important;
+        top: 95% !important;
+        left: 0 !important;
+    }
+    .buy-theme a{
+    	padding-top: 25px;
     }
 }
 
