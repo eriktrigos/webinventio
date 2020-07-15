@@ -4843,3 +4843,39 @@
 .orden > .segundo {order: 2; } /* Will be displayed second */
 .orden > .tercero {order: 1; } /* Will be displayed first  */
 }
+
+@media only screen and (max-width: 768px){
+.banner-style2 figure {position: relative; overflow: hidden}
+.banner-style2 figure:hover .banner-image img{opacity:0.4;}
+.banner-style2 figcaption {position: absolute; right: 50px; top: 150px; height: 100%; height: calc(100% - 200px); width: 50%; padding: 5%; opacity: 1; visibility: visible;}
+.banner-style2 figure:hover figcaption {right: 40px; opacity: 1; visibility: visible}
+}
+
+@media only screen and (max-width: 450px){
+.banner-style2 figure {position: relative; overflow: hidden}
+.banner-style2 figure:hover .banner-image img{opacity:0.4;}
+.banner-style2 figcaption {position: absolute; right: 10%; top: 220px; height: 100%; height: calc(100% - 250px); width: 80%; padding: 7%; opacity: 1; visibility: visible;}
+.banner-style2 figure:hover figcaption {right: 40px; opacity: 1; visibility: visible}
+.xxs-margin-menos40px-top {margin-top:-20px !important;}
+.ocultar {visibility: hidden !important;}
+.foto {width: 100%; position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;}
+.xxs-margin-20px-top {margin-top:-20px !important;}
+}
+
+@media only screen and (max-width: 991px){
+.ocultar-texto {visibility: hidden;}
+.sm-margin-menos120px-top {margin-top:-20px !important;}
+}
+
+@media only screen and (max-width: 1199px){
+.ocultar-texto-md {visibility: hidden;}
+.md-margin-menos160px-top {margin-top:-160px !important;}
+}
+
+@media only screen and (max-width: 768px){
+.sm-margin-menos120px-top {margin-top:80px !important;}
+}
+
