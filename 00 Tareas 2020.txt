@@ -9,8 +9,7 @@ Menú responsive
 COMPLETADO - Descarga LG
 COMPLETADO - Iconos menú aparecen en xs
 COMPLETADO - Ocultar retórica en xs
-Bot´´on en about
-Footer en responsive se mueve
+Botón en about
 
 PORTFOLIO POR ÁREA
 COMPLETADO (no trabajar subcarpetas) - Agregar url: Al menú pero sin que afecte el cambio de aspecto al hacer scroll
