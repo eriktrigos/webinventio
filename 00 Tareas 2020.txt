@@ -4,12 +4,13 @@ COMPLETADO - Arreglar: Menú responsive, muy feo
 COMPLETADO - Arreglar: Textos about me responsive
 COMPLETADO - Arreglar: Espacio entre imagenes de portafolio en responsive
 COMPLETADO - Cambiar en responsive: Orden de footer > Logo > Redes > Copyright
-Icono flcikr not working
+COMPLETADO - Icono flcikr not working
 Menú responsive
-Descarga LG
-Iconos menú aparecen en xs
-Ocultar retórica en xs
+COMPLETADO - Descarga LG
+COMPLETADO - Iconos menú aparecen en xs
+COMPLETADO - Ocultar retórica en xs
 Bot´´on en about
+Footer en responsive se mueve
 
 PORTFOLIO POR ÁREA
 COMPLETADO (no trabajar subcarpetas) - Agregar url: Al menú pero sin que afecte el cambio de aspecto al hacer scroll
