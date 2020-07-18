@@ -21,7 +21,7 @@
     }
 }
 
-@media (max-width: 991px){
+@media (min-width: 991px){
     .menu-ocultar {display: none !important;}
 }
 
