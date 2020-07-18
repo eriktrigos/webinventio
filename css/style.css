@@ -3882,9 +3882,9 @@ aside .latest-post li figure {width: 75px;}
 .clients-list:hover img {-webkit-filter: grayscale(1); filter: grayscale(1);}
 
 /* sidebar nav style 2 */
-.tparrows:before {font-family:'Font Awesome 5 Free'; }
-.tparrows.tp-leftarrow:before	{content: '\f060'; }
-.tparrows.tp-rightarrow:before	{content: '\f061'; }
+.tparrows:before {font-family:'FontAwesome'; }
+.tparrows.tp-leftarrow:before	{content: '\f053'; }
+.tparrows.tp-rightarrow:before	{content: '\f054'; }
 
 /* rev slider */
 .rev_slider_wrapper { height: 980px;}
