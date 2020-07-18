@@ -9,14 +9,16 @@ Menú responsive
 COMPLETADO - Descarga LG
 COMPLETADO - Iconos menú aparecen en xs
 COMPLETADO - Ocultar retórica en xs
-Botón en about
+COMPLETADO - Botón en about
+Aparecer menú con palabras en SM
+Menú XS, arriba icono, abajo nombre
 
 PORTFOLIO POR ÁREA
 COMPLETADO (no trabajar subcarpetas) - Agregar url: Al menú pero sin que afecte el cambio de aspecto al hacer scroll
 
 SINGLE 3D
-ARREGLADO RESPONSIVE
-Quitar: Fonto naranja en hover, en imagenes de galería
+COMPLETADO - RESPONSIVE
+COMPLETADO - Quitar: Fondo naranja en hover, en imagenes de galería
 Ver que hacer con el botón de instagram
 
 SINGLE MKTG

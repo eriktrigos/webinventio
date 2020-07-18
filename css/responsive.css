@@ -14,11 +14,14 @@
 }
 
 
-@media (max-width: 991px){
+@media (max-width: 767px){
     .menu-ocultar{display: none !important;}
-    .footer-strip{padding-bottom: 55px !important; }
-    .btn-download {position: fixed; bottom: 0; right: 0; left: 0; width: 100%; background: #fff;  -moz-box-shadow:0 0 10px rgba(0,0,0,0.15); -webkit-box-shadow:0 0 10px rgba(0,0,0,0.15); box-shadow:0 0 10px rgba(0,0,0,0.15); padding-top: 10px;}
-    .btn-download a {color: #ff5800;}
+    .footer-strip{padding-bottom: 40px !important; }
+    .btn-download {position: fixed; bottom: 0; right: 0; left: 0; background: #fff;  -moz-box-shadow:0 0 10px rgba(0,0,0,0.15); -webkit-box-shadow:0 0 10px rgba(0,0,0,0.15); box-shadow:0 0 10px rgba(0,0,0,0.15); padding-top: 10px; padding-bottom: 2px;}
+    .btn-download a {color: #b7b7b7;}
+    .btn-download a:hover {color: #ff5800;}
+    .btn-download a:active {color: #ff5800;}
+    .btn-download a:focus {color: #ff5800;}
 }
 
 @media (min-width: 991px){
@@ -4797,7 +4800,7 @@
 .corner {border-radius: 3px 0px 0px 17px !important}
 }
 
-@media only screen and (max-width: 991px){
+@media only screen and (max-width: 767px){
 .corner {border-radius: 0px 0px 0px 0px !important}
 }
 
@@ -4823,6 +4826,7 @@
 
 @media only screen and (max-width: 991px){
 .ficha {width: 500px !important}
+.buy-theme {top: 100px;}
 }
 
 @media only screen and (max-width: 630px){
