@@ -19,10 +19,11 @@
         bottom: 0 !important;
         position: sticky;
     }
+    .menu-ocultar{display: none !important;}
 }
 
 @media (min-width: 991px){
-    .menu-ocultar {display: none !important;}
+    .btn-download {display: none !important;}
 }
 
 
