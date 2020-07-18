@@ -93,6 +93,35 @@ Table of contents
        url('/fonts/Museo/MuseoSansW01-900.svg#svgMuseoSansW01-900') format('svg'); /* Legacy iOS */ 
    }
 
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('/fonts/fontawesome-free/webfonts/fa-regular-400.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/fontawesome-free/webfonts/fa-regular-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/fontawesome-free/webfonts/fa-regular-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/fontawesome-free/webfonts/fa-regular-400.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/fontawesome-free/webfonts/fa-regular-400.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/fontawesome-free/webfonts/fa-regular-400.svg#svgfa-regular-400') format('svg'); /* Legacy iOS */ 
+   }
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('/fonts/fontawesome-free/webfonts/fa-brands-400.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/fontawesome-free/webfonts/fa-brands-400.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/fontawesome-free/webfonts/fa-brands-400.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/fontawesome-free/webfonts/fa-brands-400.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/fontawesome-free/webfonts/fa-brands-400.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/fontawesome-free/webfonts/fa-brands-400.svg#svgfa-brands-400') format('svg'); /* Legacy iOS */ 
+   }
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('/fonts/fontawesome-free/webfonts/fa-solid-900.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/fontawesome-free/webfonts/fa-solid-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/fontawesome-free/webfonts/fa-solid-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/fontawesome-free/webfonts/fa-solid-900.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/fontawesome-free/webfonts/fa-solid-900.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/fontawesome-free/webfonts/fa-solid-900.svg#svgfa-solid-900') format('svg'); /* Legacy iOS */ 
+   }
 
 /* ===================================
     Reset
@@ -3853,7 +3882,7 @@ aside .latest-post li figure {width: 75px;}
 .clients-list:hover img {-webkit-filter: grayscale(1); filter: grayscale(1);}
 
 /* sidebar nav style 2 */
-.tparrows:before {font-family:'FontAwesome'; }
+.tparrows:before {font-family:'Font Awesome 5 Free'; }
 .tparrows.tp-leftarrow:before	{content: '\f060'; }
 .tparrows.tp-rightarrow:before	{content: '\f061'; }
 
