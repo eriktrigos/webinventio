@@ -13,20 +13,17 @@
     .feature-box-14 > div:nth-last-child(2) { border-bottom: 0}
 }
 
+
 @media (max-width: 991px){
-    li.quitar {display: none !important;}
-    .btn-download {
-        bottom: 0 !important;
-        position: sticky;
-    }
     .menu-ocultar{display: none !important;}
+    .footer-strip{padding-bottom: 55px !important; }
+    .btn-download {position: fixed; bottom: 0; right: 0; left: 0; width: 100%; background: #fff;  -moz-box-shadow:0 0 10px rgba(0,0,0,0.15); -webkit-box-shadow:0 0 10px rgba(0,0,0,0.15); box-shadow:0 0 10px rgba(0,0,0,0.15); padding-top: 10px;}
+    .btn-download a {color: #ff5800;}
 }
 
 @media (min-width: 991px){
     .btn-download {display: none !important;}
 }
-
-
 
 @media (max-width: 1500px) {
     /* sidebar navigation */
