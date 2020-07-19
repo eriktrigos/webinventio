@@ -11,7 +11,7 @@ COMPLETADO - Iconos menú aparecen en xs
 COMPLETADO - Ocultar retórica en xs
 COMPLETADO - Botón en about
 Aparecer menú con palabras en SM
-Menú XS, arriba icono, abajo nombre
+COMPLETADO - Menú XS, arriba icono, abajo nombre
 
 PORTFOLIO POR ÁREA
 COMPLETADO (no trabajar subcarpetas) - Agregar url: Al menú pero sin que afecte el cambio de aspecto al hacer scroll
