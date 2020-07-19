@@ -131,7 +131,7 @@ body{ font-family: 'MuseoSansW01-500', Fallback, sans-serif; -webkit-font-smooth
 body, html { height: 100%; -moz-osx-font-smoothing: grayscale;}
 a, a:active, a:focus { color: #B7B7B7; text-decoration: none; font-weight: 400;  }
 a:hover, a:active{color: #ff5800; text-decoration: none;}
-a:focus, a:active, button:focus, button:active,.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {outline: none; font-weight: 700;}
+a:focus, a:active, button:focus, button:active,.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {outline: none;}
 img {max-width:100%; height:auto; }
 video { background-size: cover; display: table-cell; vertical-align: middle; width: 100%; }
 input, textarea, select{ border: 1px solid #d1d1d1; font-size: 14px;  padding: 8px 15px; width: 100%; margin: 0 0 20px 0; max-width: 100%; resize: none;}
