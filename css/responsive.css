@@ -16,7 +16,7 @@
 
 @media (max-width: 767px){
     .menu-ocultar{display: none !important;}
-    .footer-strip{padding-bottom: 40px !important; }
+    .footer-strip{padding-bottom: 60px !important; }
     .btn-download {position: fixed; bottom: 0; right: 0; left: 0; background: #fff;  -moz-box-shadow:0 0 10px rgba(0,0,0,0.15); -webkit-box-shadow:0 0 10px rgba(0,0,0,0.15); box-shadow:0 0 10px rgba(0,0,0,0.15); padding-top: 10px; padding-bottom: 2px;}
     .btn-download a {color: #b7b7b7;}
     .btn-download a:hover {color: #ff5800;}
@@ -1549,7 +1549,7 @@
 
     .simple-dropdown .dropdown-menu > li > a.dropdown-toggle .fa {display:none}
     nav .accordion-menu {padding: 26px 15px 26px 15px;}
-    .sticky nav .accordion-menu {padding: 26px 15px 26px 15px;}
+    .sticky nav .accordion-menu {padding: 26px 15px 26px 15px; display: none;}
     nav.navbar.bootsnav.menu-center ul.nav.navbar-center {width:100%;}
     .center-logo {left: 15px; transform: translateX(0px); -moz-transform: translateX(0px); -ms-transform: translateX(0px); -webkit-transform: translateX(0px); -o-transform: translateX(0px); max-width:100%;}
     .navbar-nav li {position: relative}
@@ -4884,3 +4884,6 @@
 .sm-margin-menos120px-top {margin-top:80px !important;}
 }
 
+@media only screen and (max-width: 991px){
+.logo-centro {text-align: center;}
+}
