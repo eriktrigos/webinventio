@@ -3786,7 +3786,7 @@ aside .latest-post li figure {width: 75px;}
 /* home - creative business */
 .icon-box {border-bottom: 1px solid rgba(255,255,255,0.10)}
 .icon-box:last-child{border-bottom: none}
-.icon-box .icon-box-holder{padding-left:74px; height: 112px; }
+.icon-box .icon-box-holder{height: 112px; }
 .icon-box .icon-box-holder i{position: absolute; left: 0; vertical-align: middle; padding-top:10px;}
 
 /* home - creative simple portfolio */
