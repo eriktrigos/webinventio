@@ -14,7 +14,7 @@
 }
 
 
-@media (max-width: 767px){
+@media (max-width: 991px){
     .menu-ocultar{display: none !important;}
     .footer-strip{padding-bottom: 60px !important; }
     .btn-download {position: fixed; bottom: 0; right: 0; left: 0; background: #fff;  -moz-box-shadow:0 0 10px rgba(0,0,0,0.15); -webkit-box-shadow:0 0 10px rgba(0,0,0,0.15); box-shadow:0 0 10px rgba(0,0,0,0.15); padding-top: 10px; padding-bottom: 2px;}
