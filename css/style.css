@@ -3383,7 +3383,6 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {padding: 20px; margin: 0 
 
 /* feature box style 10 */
 .feature-box-10 .number { display: table-cell; font-size: 30px; height: 90px; margin: 0 auto; text-align: center; vertical-align: middle; width: 90px; position: relative}
-.feature-box-10:hover .number {background: #ff5800; color: #fff }
 
 /* feature box style 11 */
 .feature-box-11 .progress-line:after { content: ""; display: block; width: 12%; height: 1px; background: #d8d8d8; position: absolute; right: -6%; top: 65px; text-align: center;}

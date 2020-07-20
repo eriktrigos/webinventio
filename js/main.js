@@ -907,8 +907,8 @@ $(document).ready(function () {
     if ($('.chart1').length > 0) {
         $('.chart1').appear();
         $('.chart1').easyPieChart({
-            barColor: '#929292',
-            trackColor: '#d9d9d9',
+            barColor: '#ff5800',
+            trackColor: '#ffffff',
             scaleColor: false,
             easing: 'easeOutBounce',
             scaleLength: 1,
