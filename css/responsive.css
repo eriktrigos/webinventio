@@ -4891,3 +4891,9 @@
 @media only screen and (max-width: 991px){
 .logo-centro {text-align: center;}
 }
+
+@media only screen and (max-width: 991px){
+.xs-no-padding-left {padding-left: 0px !important;}
+.xs-padding-bottom {padding-bottom: 20px !important;}
+.umu {max-width: 93px;}
+}
