@@ -5,12 +5,12 @@ COMPLETADO - Arreglar: Textos about me responsive
 COMPLETADO - Arreglar: Espacio entre imagenes de portafolio en responsive
 COMPLETADO - Cambiar en responsive: Orden de footer > Logo > Redes > Copyright
 COMPLETADO - Icono flcikr not working
-Menú responsive
+COMPLETADO - Menú responsive
 COMPLETADO - Descarga LG
 COMPLETADO - Iconos menú aparecen en xs
 COMPLETADO - Ocultar retórica en xs
 COMPLETADO - Botón en about
-Aparecer menú con palabras en SM
+COMPLETADO - Aparecer menú con palabras en SM
 COMPLETADO - Menú XS, arriba icono, abajo nombre
 
 PORTFOLIO POR ÁREA
