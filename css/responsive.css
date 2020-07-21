@@ -2489,6 +2489,7 @@
     .sm-padding-95px-right {padding-right:95px !important;}
     .sm-padding-100px-right {padding-right:100px !important;}
     .sm-padding-300px-right {padding-right:300px !important;}
+    .sm-padding-330px-right {padding-right:330px !important;}
 
     /* padding left */
     .sm-padding-one-left {padding-left:1%;}
@@ -3842,7 +3843,7 @@
     .xs-padding-100px-bottom {padding-bottom:100px !important;}
 
     /* padding right */
-    .xs-padding-one-right {padding-right:1%;}
+    .xs-padding-one-right {padding-right:1%  !important;}
     .xs-padding-one-half-right {padding-right:1.5%;}
     .xs-padding-two-right {padding-right:2%;}
     .xs-padding-two-half-right {padding-right:2.5%;}
@@ -3860,7 +3861,7 @@
     .xs-padding-eight-half-right {padding-right:8.5%;}
     .xs-padding-nine-right {padding-right:9%;}
     .xs-padding-nine-half-right {padding-right:9.5%;}
-    .xs-padding-ten-right {padding-right:10%;}
+    .xs-padding-ten-right {padding-right:10%  !important;}
     .xs-padding-ten-half-right {padding-right:10.5%;}
     .xs-padding-eleven-right {padding-right:11%;}
     .xs-padding-eleven-half-right {padding-right:11.5%;}
@@ -4896,4 +4897,8 @@
 .xs-no-padding-left {padding-left: 0px !important;}
 .xs-padding-bottom {padding-bottom: 20px !important;}
 .umu {max-width: 93px;}
+}
+
+@media only screen and (max-width: 768px){
+.arab {font-size: 55px !important;}
 }
