@@ -43,7 +43,15 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-window.onscroll = function() {iconOnScroll()};
+function onlyResponsive(x){
+		if(x.matches){
+			window.onscroll = function() {iconOnScroll()};
+		}
+}
+
+var x = window.matchMedia("(max-width: 991px)");
+onlyResponsive(x);
+x.addListener(onlyResponsive);
 
 document.getElementById("bookBtn").addEventListener("click",function(event){
 	var elem = document.querySelector('#bookIcon');
