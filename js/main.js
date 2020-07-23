@@ -76,13 +76,16 @@ function init_scroll_navigate() {
     var scrollPos = $(document).scrollTop();
     menu_links.each(function () {
         var currLink = $(this);
-        if (currLink.attr("href").indexOf("#") > -1 && $(currLink.attr("href")).length > 0) {
-            var refElement = $(currLink.attr("href"));
-            if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
-                menu_links.removeClass("active");
-                currLink.addClass("active");
-            } else {
-                currLink.removeClass("active");
+        if(!$('header').hasClass('linkHashtag')){
+            console.log("tt");
+            if (currLink.attr("href").indexOf("#") > -1 && $(currLink.attr("href")).length > 0) {
+                var refElement = $(currLink.attr("href"));
+                if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
+                    menu_links.removeClass("active");
+                    currLink.addClass("active");
+                } else {
+                    currLink.removeClass("active");
+                }
             }
         }
     });
