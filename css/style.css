@@ -3908,10 +3908,10 @@ aside .latest-post li figure {width: 75px;}
 
 .encima-texto{
     position: absolute;
-    top: 96%;
+    top: 92%;
     left:50%;
     transform: translate(-50%, -50%);
-    color: #ff5800;
+    color: rgb(255, 255, 255, 0.35);
 }
 
 .encima-icono{
@@ -3971,3 +3971,6 @@ aside .latest-post li figure {width: 75px;}
 .ficha {width: 900px; margin-top: -90px; margin-left: auto; margin-right: auto; border-radius: 30px; position: relative;  z-index: 2; box-shadow: 0 25px 65px rgba(0, 0, 0, 0.05)}
 
 .esquinas20px {border-radius: 10px;}
+
+.noHover {
+    pointer-events: none !important;}
