@@ -4822,12 +4822,12 @@
 
     body { font-size: 12px; line-height: 20px}
 
-    h1, h2, h3, h4, h5, h6 {margin:0 0 17px; padding:0; letter-spacing: 0; font-weight: 400;}
-    h1 {font-size:37px !important; line-height: 42px !important; }
+    h1, h2, h3, h4, h5, h6 {margin:0 0 0px; padding:0; letter-spacing: 0; font-weight: 400;}
+    h1 {font-size:24px !important; line-height: 30px !important; }
     h3 {font-size:26px; line-height:30px}
-    h4 {font-size:24px; line-height:30px}
+    h4 {font-size:14px; line-height:30px}
     h5 {font-size:20px; line-height:28px}
-    h6 {font-size:18px; line-height:23px}
+    h6 {font-size:10px; line-height:23px}
 }
 
 @media only screen and (max-width: 991px){
@@ -4867,6 +4867,7 @@
 .banner-style2 figcaption {position: absolute; right: 10%; top: 220px; height: 100%; height: calc(100% - 250px); width: 80%; padding: 7%; opacity: 1; visibility: visible;}
 .banner-style2 figcaption {opacity: 1; visibility: visible}
 .xxs-margin-menos40px-top {margin-top:-20px !important;}
+.xxs-margin-24px-top {margin-top: -24px !important;}
 .ocultar {visibility: hidden !important; {display: none !important;}}
 .foto {width: 100%; position: relative;
     min-height: 1px;
@@ -4902,4 +4903,13 @@
 
 @media only screen and (max-width: 768px){
 .arab {font-size: 55px !important;}
+.text-small {line-height: 14px !important;}
+.text-medium {font-size: 14px !important; line-height: 18px !important;}
+}
+
+@media only screen and (max-width: 768px){
+.circulos-tecnicos {height: 100px !important; width: 100px !important;}
+
+@media only screen and (max-width: 400px){
+    .titular {width: 80% !important;}
 }
