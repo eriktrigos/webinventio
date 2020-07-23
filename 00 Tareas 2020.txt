@@ -1,35 +1,26 @@
-INDEX
-COMPLETADO - Cambiar color a gris: Texto Formulario 
-COMPLETADO - Arreglar: Menú responsive, muy feo
-COMPLETADO - Arreglar: Textos about me responsive
-COMPLETADO - Arreglar: Espacio entre imagenes de portafolio en responsive
-COMPLETADO - Cambiar en responsive: Orden de footer > Logo > Redes > Copyright
-COMPLETADO - Icono flcikr not working
-COMPLETADO - Menú responsive
-COMPLETADO - Descarga LG
-COMPLETADO - Iconos menú aparecen en xs
-COMPLETADO - Ocultar retórica en xs
-COMPLETADO - Botón en about
-COMPLETADO - Aparecer menú con palabras en SM
-COMPLETADO - Menú XS, arriba icono, abajo nombre
+MENÚ
+En responsive, hover en las demás páginas para que se sienta que funciona el botón en lo que carga la página
+En responsive, hover de descarga, sacar del js de iconScroll
 
-PORTFOLIO POR ÁREA
-COMPLETADO (no trabajar subcarpetas) - Agregar url: Al menú pero sin que afecte el cambio de aspecto al hacer scroll
+INDEX
+Menos tiempo entre imágenes slider
+Cambiar a imagenes de slider por proyectos destacados
 
 SINGLE 3D
-COMPLETADO - RESPONSIVE
-COMPLETADO - Quitar: Fondo naranja en hover, en imagenes de galería
-Ver que hacer con el botón de instagram
+En botón "más de 3d" icono en Hover transición de color muy lento
+icono de girar 360 en hover desaparecer hacia abajo
+360 en celular
 
 SINGLE MKTG
-Icono Área: Hover transición de color muy lento
 Hacer responsive: Celular con Galería
 Agregar: foto a la derecha del celular, que funcione como lightbox y que cambie la foto al hacer clic en el celular.
 
+SINGLE PHOTO
+Retícula rara en columnas con imágenes con doble de alto
+
 SINGLE BRANDING
+Resolver visualización de issuu
 
 SINGLE MOTION
-
-SINGLE PHOTO
 
 SINGLE UI
