@@ -13,7 +13,6 @@
     .feature-box-14 > div:nth-last-child(2) { border-bottom: 0}
 }
 
-
 @media (max-width: 991px){
     .menu-ocultar{display: none !important;}
     .footer-strip{padding-bottom: 73px !important; }
@@ -22,6 +21,8 @@
     .btn-download a:hover {color: #ff5800;}
     .btn-download a:active {color: #ff5800;}
     .btn-download a:focus {color: #ff5800;}
+    .nav-header-container {width: 100% !important;}
+    .invisible-sm-xs {display: none !important;}
 }
 
 @media (max-width: 767px){
