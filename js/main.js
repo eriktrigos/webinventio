@@ -2355,3 +2355,33 @@ $(window).load(function () {
 /* ===================================
 END Page Load
 ====================================== */
+/* ===================================
+START FooterNavbar Hover btn
+======================================
+*/
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+var elements = document.getElementsByClassName("footer-navbar");
+for(var cont = 0; cont < elements.length; cont++){
+	elements[cont].addEventListener('click',function(event){
+		var aux = "#";
+		var str = this.id;
+		str = aux.concat(str);
+		console.log(str);
+		var str1 = str.replace(/Icon/g,"Span");
+		str = document.querySelector(str);
+		str1 = document.querySelector(str1);
+		str.style.color = '#ff5800';
+		str1.style.color = '#ff5800';		
+		sleep(2000).then(()=> {
+		str.style.color = '#b7b7b7';
+		str1.style.color = '#b7b7b7';
+	})
+	},false)
+}
+/* ===================================
+END FooterNavbar Hover btn
+======================================
+*/

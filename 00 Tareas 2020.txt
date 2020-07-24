@@ -1,6 +1,6 @@
 MENÚ
-En responsive, hover en las demás páginas para que se sienta que funciona el botón en lo que carga la página
-En responsive, hover de descarga, sacar del js de iconScroll
+-Completado- En responsive, hover en las demás páginas para que se sienta que funciona el botón en lo que carga la página
+-Completado- En responsive, hover de descarga, sacar del js de iconScroll
 
 INDEX
 Menos tiempo entre imágenes slider

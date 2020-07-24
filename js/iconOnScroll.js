@@ -39,10 +39,6 @@ function iconOnScroll(){
 	}
 }
 
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
-
 function onlyResponsive(x){
 		if(x.matches){
 			window.onscroll = function() {iconOnScroll()};
@@ -52,17 +48,6 @@ function onlyResponsive(x){
 var x = window.matchMedia("(max-width: 991px)");
 onlyResponsive(x);
 x.addListener(onlyResponsive);
-
-document.getElementById("bookBtn").addEventListener("click",function(event){
-	var elem = document.querySelector('#bookIcon');
-	var elem2 = document.querySelector('#bookSpan');
-	elem.style.color = '#ff5800';
-	elem2.style.color = '#ff5800';
-	sleep(2000).then(()=> {
-		elem.style.color = '#b7b7b7';
-		elem2.style.color = '#b7b7b7';
-	})	
-}, false)
 
 
 
