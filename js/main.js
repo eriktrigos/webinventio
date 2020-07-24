@@ -2368,11 +2368,11 @@ for(var cont = 0; cont < elements.length; cont++){
 	elements[cont].addEventListener('click',function(event){
 		var str = this.id;
 		str = document.querySelectorAll("#".concat(str.concat(", #".concat(str.replace(/Icon/g,"Span")))));
-		for (var cont1 = 0; cont1 < str.length; cont1++){
-			str[cont1].style.color = '#ff5800';
+		for (cont = 0; cont < str.length; cont++){
+			str[cont].style.color = '#ff5800';
 			sleep(2000).then(()=> {
-				str[cont1-2].style.color = '#b7b7b7';
-				cont1=3; //for logical purpose and exit condition
+				str[cont-2].style.color = '#b7b7b7';
+				cont=3; //for logical purpose and exit condition
 			})
 		}
 	},false)
