@@ -77,7 +77,6 @@ function init_scroll_navigate() {
     menu_links.each(function () {
         var currLink = $(this);
         if(!$('header').hasClass('linkHashtag')){
-            console.log("tt");
             if (currLink.attr("href").indexOf("#") > -1 && $(currLink.attr("href")).length > 0) {
                 var refElement = $(currLink.attr("href"));
                 if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
@@ -2377,11 +2376,6 @@ for(var cont = 0; cont < elements.length; cont++){
 		}
 	},false)
 }
-		
-		
-
-
-
 /* ===================================
 END FooterNavbar Hover btn
 ======================================
