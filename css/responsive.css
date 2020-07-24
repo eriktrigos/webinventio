@@ -18,9 +18,6 @@
     .footer-strip{padding-bottom: 73px !important; }
     .btn-download {position: fixed; bottom: 0; right: 0; left: 0; background: #fff;  -moz-box-shadow:0 0 10px rgba(0,0,0,0.15); -webkit-box-shadow:0 0 10px rgba(0,0,0,0.15); box-shadow:0 0 10px rgba(0,0,0,0.15); padding-top: 10px; padding-bottom: 2px;}
     .btn-download a {color: #b7b7b7;}
-    .btn-download a:hover {color: #ff5800;}
-    .btn-download a:active {color: #ff5800;}
-    .btn-download a:focus {color: #ff5800;}
     .nav-header-container {width: 100% !important;}
     .invisible-sm-xs {display: none !important;}
 }
