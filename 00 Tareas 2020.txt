@@ -6,9 +6,12 @@ INDEX
 Menos tiempo entre imágenes slider
 Cambiar a imagenes de slider por proyectos destacados
 
+ERIK
+Circulos se cortan en 320 de ancho
+
 SINGLE 3D
 En botón "más de 3d" icono en Hover transición de color muy lento
-icono de girar 360 en hover desaparecer hacia abajo
+COMPLETADO - icono de girar 360 en hover desaparecer hacia abajo
 360 en celular
 
 SINGLE MKTG
