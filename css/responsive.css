@@ -4772,7 +4772,15 @@
 }
 
 @media only screen and (max-width: 991px){
-.toolcanon {height: 63px !important; width: 88px }
+.toolcanon {width: 88px }
+}
+
+@media only screen and (max-width: 767px){
+.toolcanon {width: 80px }
+}
+
+@media only screen and (max-width: 500px){
+.toolcanon {width: 75px }
 }
 
 @media only screen and (max-width: 991px){

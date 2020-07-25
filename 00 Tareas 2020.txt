@@ -1,17 +1,9 @@
-MENÚ
--Completado- En responsive, hover en las demás páginas para que se sienta que funciona el botón en lo que carga la página
--Completado- En responsive, hover de descarga, sacar del js de iconScroll
-
 INDEX
 Menos tiempo entre imágenes slider
 Cambiar a imagenes de slider por proyectos destacados
 
-ERIK
-COMPLETADO - Circulos se cortan en 320 de ancho
-
 SINGLE 3D
 En botón "más de 3d" icono en Hover transición de color muy lento
-COMPLETADO - icono de girar 360 en hover desaparecer hacia abajo
 360 en celular
 
 SINGLE MKTG
@@ -27,3 +19,5 @@ Resolver visualización de issuu
 SINGLE MOTION
 
 SINGLE UI
+
+¿QUITAR JS INNECESARIOS DE LAS PÁGINAS?
