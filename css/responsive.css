@@ -4923,3 +4923,8 @@
     .frozen {font-size: 16px !important; margin-bottom: 15px !important}
     .subtitulo {font-size: 16px !important; margin-bottom: 15px !important}
 }
+
+@media only screen and (max-width: 500px){
+.portfolio-grid .grid-item figure {margin: 0px;}
+.border-20px {border-radius: 15px;}
+}

@@ -3975,3 +3975,5 @@ aside .latest-post li figure {width: 75px;}
 .noHover {pointer-events: none !important;}
 
 .cuadro-360:hover .icon-360 {top: 110% !important;}
+
+.border-20px {border-radius: 20px;}
