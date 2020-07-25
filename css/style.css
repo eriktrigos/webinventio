@@ -3484,10 +3484,10 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {padding: 20px; margin: 0 
 .skillbar-bar-style3 .skill-bar-text {top:15px; position: absolute}
 
 /* piechart style 1 */
-.chart-style1 .chart1 { position: relative; display: inline-block; width: 150px; height: 150px; text-align: center; border-radius: 50%;  }
+.chart-style1 .chart1 { position: relative; display: inline-block; width: 110px; height: 120px; text-align: center; border-radius: 50%;  }
 .chart-style1 .chart1 canvas { position: absolute; top: 0; left: 0; }
 .chart-style1 .chart-percent { margin: 0 0 15px 0}
-.chart-style1 .name { display: inline-block; line-height: 17px; z-index: 2; margin-top: 58px;}
+.chart-style1 .name { display: inline-block; line-height: 17px; z-index: 2; margin-top: 38.5px;}
 .percent:after { content: '%'; }
 
 /* piechart style 2 */

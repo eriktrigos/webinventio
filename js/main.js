@@ -916,7 +916,7 @@ $(document).ready(function () {
             scaleLength: 1,
             lineCap: 'round',
             lineWidth: 3, //12
-            size: 150, //110
+            size: 110, //110
             animate: {
                 duration: 2000,
                 enabled: true

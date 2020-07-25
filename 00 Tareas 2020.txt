@@ -7,7 +7,7 @@ Menos tiempo entre imágenes slider
 Cambiar a imagenes de slider por proyectos destacados
 
 ERIK
-Circulos se cortan en 320 de ancho
+COMPLETADO - Circulos se cortan en 320 de ancho
 
 SINGLE 3D
 En botón "más de 3d" icono en Hover transición de color muy lento
