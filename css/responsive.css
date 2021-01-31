@@ -4103,6 +4103,7 @@
     .xs-padding-twenty-four-lr {padding-left:24%; padding-right:24%;}
     .xs-padding-twenty-four-half-lr {padding-left:24.5%; padding-right:24.5%;}
     .xs-padding-twenty-lr {padding-left:25%; padding-right:25%;}
+    .xs-padding-0px-lr {padding-left:0px !important; padding-right:0px !important;}
     .xs-padding-5px-lr {padding-left:5px !important; padding-right:5px ;}
     .xs-padding-10px-lr {padding-left:10px !important; padding-right:10px !important;}
     .xs-padding-15px-lr {padding-left:15px !important; padding-right:15px !important;}
