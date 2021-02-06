@@ -530,8 +530,8 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .btn.btn-white:hover, .btn.btn-white:focus {background: transparent; color: #fff}
 .btn.btn-black {background:#000000; border-color: #000000; color: #fff}
 .btn.btn-black:hover, .btn.btn-black:focus {background: transparent; color: #000}
-.btn.btn-dark-gray {background: #232323; border-color: #232323; color: #fff}
-.btn.btn-dark-gray:hover, .btn.btn-dark-gray:focus {background: transparent; color: #232323}
+.btn.btn-dark-gray {background: #transparent; border-color: #232323; color: #232323}
+.btn.btn-dark-gray:hover, .btn.btn-dark-gray:focus {background: #232323; color: #b7b7b7}
 .btn.btn-light-gray {background: #transparent; border-color: #b7b7b7; color: #b7b7b7}
 .btn.btn-light-gray:hover, .btn.btn-light-gray:focus {background: #b7b7b7; border-color: #b7b7b7; color: #fff}
 .btn.btn-deep-pink {background: #ff5800; border-color: #ff5800; color: #ffffff}
@@ -3968,7 +3968,7 @@ aside .latest-post li figure {width: 75px;}
 .btn-download a{color: #ff5800;}
 .umu {max-width: 70px;}
 
-.ficha {width: 900px; margin-top: -90px; margin-left: auto; margin-right: auto; border-radius: 30px; position: relative;  z-index: 2; box-shadow: 0 25px 65px rgba(0, 0, 0, 0.05)}
+.ficha {width: 900px; margin-top: -150px; margin-left: auto; margin-right: auto; border-radius: 30px; position: relative;  z-index: 2; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05)}
 
 .esquinas20px {border-radius: 10px;}
 
@@ -3979,3 +3979,12 @@ aside .latest-post li figure {width: 75px;}
 .border-20px {border-radius: 20px;}
 
 .scroll {position: absolute; z-index: 100; width: 30px; left: 49.4%; bottom: 30px;}
+
+.blur-panel {
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  background-color: rgb(255,255,255,0.25);
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255,255,255,0.2);
+}
