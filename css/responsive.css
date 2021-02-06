@@ -4911,6 +4911,7 @@
 .xs-padding-bottom-25 {padding-bottom: 25px !important;}
 .umu {max-width: 94px;}
 .scroll {display: none;}
+.ancho-subtitulo {width: 416px !important;}
 }
 
 @media only screen and (max-width: 768px){
@@ -4946,13 +4947,14 @@
 @media only screen and (max-width: 767px){
 .ocultar-foto-sm {display: none;}
 .boton-ficha {text-align: center !important;}
+.ancho-subtitulo {width: 416px !important;}
 }
 
 @media only screen and (max-width: 500px){
-.interlineado {
-  line-height: 20px !important;
-}
+.interlineado {line-height: 20px !important;}
 .xxs-no-margin-top {margin-top:5px !important;}
 .ficha {margin-top: -120px;}
 .xxs-no-padding-lr {padding-left: 0px !important; padding-right: 0px !important;}
+.padding-40px-all {padding-left: 30px !important; padding-right: 30px !important; padding-top: 30px !important; padding-bottom: 30px !important;}
+.ancho-subtitulo {width: 235px !important;}
 }
