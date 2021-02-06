@@ -3978,7 +3978,7 @@ aside .latest-post li figure {width: 75px;}
 
 .border-20px {border-radius: 20px;}
 
-.scroll {position: absolute; z-index: 100; width: 30px; left: 49.4%; bottom: 30px;}
+.scroll {position: absolute; z-index: 100; width: 50px; left: 49.1%; bottom: 30px;}
 
 .blur-panel {
   backdrop-filter: blur(20px);
