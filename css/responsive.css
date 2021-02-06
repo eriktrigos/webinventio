@@ -4945,6 +4945,7 @@
 
 @media only screen and (max-width: 767px){
 .ocultar-foto-sm {display: none;}
+.boton-ficha {text-align: center !important;}
 }
 
 @media only screen and (max-width: 500px){
@@ -4952,4 +4953,6 @@
   line-height: 20px !important;
 }
 .xxs-no-margin-top {margin-top:5px !important;}
+.ficha {margin-top: -120px;}
+.xxs-no-padding-lr {padding-left: 0px !important; padding-right: 0px !important;}
 }
