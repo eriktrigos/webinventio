@@ -393,6 +393,20 @@ $(document).ready(function () {
         return false;
     });
 
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 300)
+            $('.whatsapp-button').fadeIn();
+        else
+            $('.whatsapp-button').fadeOut();
+    });
+
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 300)
+            $('.whatsapp-text-button').fadeIn();
+        else
+            $('.whatsapp-text-button').fadeOut();
+    });
+
     /* ===================================
     swiper slider
     ====================================== */
