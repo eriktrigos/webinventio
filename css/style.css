@@ -4000,7 +4000,7 @@ aside .latest-post li figure {width: 75px;}
 .btn-download a{color: #ff5800;}
 .umu {max-width: 70px;}
 
-.ficha {width: 900px; margin-top: -150px; margin-left: auto; margin-right: auto; border-radius: 30px; position: relative;  z-index: 2; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05)}
+.ficha {width: 900px; margin-top: -150px; margin-left: auto; margin-right: auto; border-radius: 30px; position: relative;  z-index: 2; box-shadow: 0 10px 35px rgba(0, 0, 0, 0.08)}
 
 .esquinas20px {border-radius: 10px;}
 
@@ -4023,4 +4023,8 @@ aside .latest-post li figure {width: 75px;}
 
 .noise-panel {
     background: url(../images/noise.png);
+}
+
+.ficha-looted {
+    margin-top: 0% !important
 }
