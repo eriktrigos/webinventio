@@ -3041,7 +3041,7 @@
     .mfp-arrow:active, .mfp-arrow:focus {margin-top: -55px}
     .mfp-arrow-left {left: 6px}
     .mfp-arrow-right {right: 6px}
-    .banner-style2 figcaption {width: 50%;}
+    .banner-style2 figcaption {width: 70%;}
     .list-style-6 li { padding: 0 0 8px 0;}
     .search-form .search-input {font-size: 24px; padding-top: 15px; padding-bottom: 15px;}
     .search-form .search-button {font-size: 15px;}
@@ -4849,7 +4849,7 @@
 .ficha {width: 300px !important}
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 767px){
 .orden {
     display: flex;
     flex-direction: column;
@@ -4860,7 +4860,7 @@
 .orden > .tercero {order: 1; } /* Will be displayed first  */
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 767px){
 .banner-style2 figure {position: relative; overflow: hidden}
 .banner-style2 figure:hover .banner-image img{opacity:0.4;}
 .banner-style2 figcaption {position: absolute; right: 74px; top: 150px; height: 100%; height: calc(100% - 200px); width: 50%; padding: 5%; opacity: 1; visibility: visible;}
