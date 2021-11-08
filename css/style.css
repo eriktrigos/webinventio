@@ -4013,8 +4013,8 @@ aside .latest-post li figure {width: 75px;}
 .scroll {position: absolute; z-index: 100; width: 50px; left: 49.1%; bottom: 30px;}
 
 .blur-panel {
-  backdrop-filter: blur(15px);
-  -webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   background-color: rgb(255,255,255,0.1);
   border-width: 2px;
   border-style: solid;
