@@ -420,7 +420,12 @@
         <script type="text/javascript" src="js/jquery.threesixty.js"></script>
         <script type="text/javascript" src="js/llamar-img_jarana.js"></script>
         <div class="buy-theme alt-font corner text-center vertical-align-middle menu-ocultar" style="z-index: 31">
-            <a href="files/Portafolio-Inventio.pdf" download><i class="fas fa-cloud-download-alt"></i><span class="font-regular">Download <span class="font-black no-padding-lr">Book</span><span class="font-thin no-padding-lr">'22</span></a>
+            <a href="files/Portafolio-Inventio.pdf" download><i class="fas fa-cloud-download-alt"></i><span class="font-regular">Download <span class="font-black no-padding-lr">Book</span><span class="font-thin no-padding-lr">'<script>var date = new Date();
+                var getYear = date.getFullYear();
+                var getTwodigitYear = getYear.toString().substring(2);
+                document.write( + getTwodigitYear );
+                </script></span>
+            </a>
         </div> 
     </body>
 </html>

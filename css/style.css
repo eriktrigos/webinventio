@@ -1576,7 +1576,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .padding-twenty-four-half-left {padding-left:24.5%;}
 .padding-twenty-five-left {padding-left:25%;}
 .padding-5px-left {padding-left:5px;}
-.padding-10px-left {padding-left:10px;}
+.padding-10px-left {padding-left:10px!important;}
 .padding-15px-left {padding-left:15px;}
 .padding-20px-left {padding-left:20px;}
 .padding-25px-left {padding-left:25px;}
@@ -4027,4 +4027,8 @@ aside .latest-post li figure {width: 75px;}
 
 .ficha-looted {
     margin-top: 0% !important
+}
+
+.shadow-panel {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5)
 }
