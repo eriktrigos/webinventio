@@ -49,6 +49,14 @@
     .feature-box.feature-box-17 .box .content {top: 40px;}
 }
 
+@media (max-width: 1400px) {
+    .head-text {font-size: 60px; line-height: 70px;}
+    .banner-style4 figcaption {width: 70%;}
+    .banner-style1 figure figcaption img {width: 100px;}
+    .banner-style1 figure:hover figcaption p {height: 150px}
+    .feature-box.feature-box-17 .box .content {top: 40px;}
+}
+
 @media (max-width: 1300px) {
     /* sidebar navigation */
     .sidebar-wrapper .container {width: 830px;}
