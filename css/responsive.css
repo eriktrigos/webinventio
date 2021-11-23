@@ -4887,7 +4887,7 @@
 .xxs-margin-menos40px-top {margin-top:-10px !important;}
 .xxs-margin-24px-top {margin-top: -24px !important;}
 .ocultar {visibility: hidden !important; display: none !important;}
-.foto {width: 100%; position: relative;
+.foto {width: 70%; position: relative;
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;}
@@ -4940,6 +4940,9 @@
     .frozen {font-size: 16px !important; margin-bottom: 15px !important}
     .subtitulo {font-size: 16px !important; margin-bottom: 15px !important}
     .letter-spacing-2, .letter-spacing-1 {letter-spacing: 1px;}
+    .padding-service { 
+        padding: 5px;
+    }
 }
 
 @media only screen and (max-width: 500px){
@@ -4969,4 +4972,5 @@
 
 @media only screen and (max-width: 630px){
 .text-looted {font-size: 30px !important; line-height: 36px !important;}
+.ficha {margin-top: -80px;}
 }
